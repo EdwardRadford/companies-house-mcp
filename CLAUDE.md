@@ -14,7 +14,8 @@ State file: `STATE.md` (what works, Ed's to-do, next).
   officer and PSC addresses, advanced search, document downloads, the streaming API. The
   README explains each; adding one is a decision for Ed, not a drive-by.
 - Tool surface budget: 12,000 chars of names, descriptions and input schemas (test-enforced).
-- Nothing public: no GitHub repo, no PyPI, no push until Ed decides (assistant session handles it with him).
+- Public on GitHub (EdwardRadford/companies-house-mcp, MIT) since 23 Sep 2026. No PyPI release without Ed.
+- Recorded fixtures are public: `scripts/record_fixtures.py` redacts natural persons; never bypass it.
 
 ## Engineering
 - Python 3.11+, `mcp` 2.x (`MCPServer`, not the v1 `FastMCP`), httpx, pydantic v2. Venv at `.venv`.

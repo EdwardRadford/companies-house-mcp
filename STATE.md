@@ -1,12 +1,14 @@
 # companies-house-mcp: state
 
 ## ED'S TO-DO
-- [ ] Say "publish it" in the ed-6f session to create the GitHub repo (EdwardRadford/companies-house-mcp, MIT). The
-      permission system blocked going public on the assistant session's relay alone; it needs your word directly.
 - [ ] Store the Companies House API key in Bitwarden (pasted into the ed-6f session on 23 Sep 2026; not in the repo or
       git history, verified). Regenerate it on the developer hub if you'd rather not keep one that sat in a transcript.
 
 Updated: 2026-09-23 (session ed-6f)
+
+## Live
+- Public: https://github.com/EdwardRadford/companies-house-mcp (MIT). Published 23 Sep 2026 on Ed's approval in session.
+  Verified logged out: repo page 200, raw README 200, GitHub detects MIT; anonymous clone has 0 key hits in tree and history.
 
 ## Works (verified 23 Sep 2026)
 - Seven read-only tools over MCP: search_companies, get_company_profile, list_officers, list_filings,
@@ -27,9 +29,8 @@ Updated: 2026-09-23 (session ed-6f)
 Confirmed: charge particulars/classification/secured_details are objects; all filing keys seen are in the vendored tables.
 
 ## Next
-1. Publish once Ed says so; then verify logged out: repo page 200, raw README 200, key absent.
-2. Optional: a short transcript of a model answering "who ultimately owns X?" for the portfolio page.
-3. Re-record occasionally: `COMPANIES_HOUSE_API_KEY=... python scripts/record_fixtures.py 00445790 SC535479 OC303675 00104206 06732228`.
+1. Optional: a short transcript of a model answering "who ultimately owns X?" for the portfolio page.
+2. Re-record occasionally: `COMPANIES_HOUSE_API_KEY=... python scripts/record_fixtures.py 00445790 SC535479 OC303675 00104206 06732228`.
 
 ## Notes
 - mcp SDK 2.2.0 renamed FastMCP to `mcp.server.mcpserver.MCPServer`; in-process test client is `mcp.Client(server)`.

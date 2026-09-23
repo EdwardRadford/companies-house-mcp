@@ -1,0 +1,49 @@
+{
+  "etag": "c0ffee",
+  "total_count": 2,
+  "unfiltered_count": 2,
+  "satisfied_count": 1,
+  "part_satisfied_count": 0,
+  "items": [
+    {
+      "id": "Xk9Pq2",
+      "charge_code": "094462310002",
+      "charge_number": 2,
+      "classification": {"type": "charge-description", "description": "A registered charge"},
+      "status": "outstanding",
+      "created_on": "2024-06-05",
+      "delivered_on": "2024-06-12",
+      "persons_entitled": [{"name": "Kestrel Asset Finance PLC"}],
+      "particulars": {
+        "type": "brief-description",
+        "description": "Contains fixed charge. Contains floating charge. Floating charge covers all the property or undertaking of the company. Contains negative pledge.",
+        "contains_fixed_charge": true,
+        "contains_floating_charge": true,
+        "floating_charge_covers_all": true,
+        "contains_negative_pledge": true
+      },
+      "transactions": [{"filing_type": "create-charge-with-deed", "delivered_on": "2024-06-12"}],
+      "links": {"self": "/company/09446231/charges/Xk9Pq2"}
+    },
+    {
+      "id": "Ab1Cd2",
+      "charge_number": 1,
+      "classification": [{"type": "charge-description", "description": "Debenture"}],
+      "status": "fully-satisfied",
+      "created_on": "2016-01-20",
+      "delivered_on": "2016-01-27",
+      "satisfied_on": "2023-10-02",
+      "persons_entitled": [{"name": "Harrow Vale Bank PLC"}],
+      "secured_details": [
+        {"type": "amount-secured", "description": "All monies due or to become due from the company to the chargee"}
+      ],
+      "particulars": [
+        {
+          "type": "short-particulars",
+          "description": "Fixed and floating charge over the undertaking and all property and assets present and future"
+        }
+      ],
+      "links": {"self": "/company/09446231/charges/Ab1Cd2"}
+    }
+  ]
+}

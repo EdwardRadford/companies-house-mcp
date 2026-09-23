@@ -1,0 +1,64 @@
+{
+  "kind": "officer-list",
+  "total_results": 5,
+  "active_count": 3,
+  "resigned_count": 2,
+  "items_per_page": 35,
+  "start_index": 0,
+  "etag": "a1b2c3",
+  "links": {"self": "/company/09446231/officers"},
+  "items": [
+    {
+      "name": "OKONKWO-HALE, Adaeze Rosalind",
+      "officer_role": "director",
+      "appointed_on": "2015-02-17",
+      "nationality": "British",
+      "occupation": "Engineer",
+      "country_of_residence": "England",
+      "date_of_birth": {"month": 7, "year": 1981},
+      "address": {
+        "premises": "Unit 4",
+        "address_line_1": "Kiln Farm",
+        "locality": "Milton Keynes",
+        "postal_code": "MK11 3JB"
+      },
+      "links": {
+        "self": "/company/09446231/appointments/abc1",
+        "officer": {"appointments": "/officers/abc1XYZ/appointments"}
+      }
+    },
+    {
+      "name": "BRANDT, Tomasz",
+      "officer_role": "director",
+      "appointed_on": "2019-11-04",
+      "nationality": "Polish",
+      "occupation": "Operations Director",
+      "country_of_residence": "England",
+      "date_of_birth": {"month": 12, "year": 1976},
+      "links": {"officer": {"appointments": "/officers/def2XYZ/appointments"}}
+    },
+    {
+      "name": "LEDGERLINE SECRETARIES LIMITED",
+      "officer_role": "corporate-secretary",
+      "appointed_on": "2021-04-01",
+      "identification": {"identification_type": "uk-limited-company", "registration_number": "05550123"},
+      "links": {"officer": {"appointments": "/officers/ghi3XYZ/appointments"}}
+    },
+    {
+      "name": "HALE, Graham Peter",
+      "officer_role": "director",
+      "appointed_on": "2015-02-17",
+      "resigned_on": "2019-11-04",
+      "nationality": "British",
+      "occupation": "Director",
+      "country_of_residence": "England",
+      "date_of_birth": {"month": 3, "year": 1952}
+    },
+    {
+      "name": "HALE, Graham Peter",
+      "officer_role": "secretary",
+      "appointed_on": "2015-02-17",
+      "resigned_on": "2021-04-01"
+    }
+  ]
+}

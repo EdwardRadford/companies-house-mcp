@@ -1,0 +1,34 @@
+{
+  "kind": "search#companies",
+  "total_results": 3,
+  "items_per_page": 2,
+  "start_index": 0,
+  "items": [
+    {
+      "kind": "searchresults#company",
+      "title": "HALCYON FORGE LIMITED",
+      "company_number": "09446231",
+      "company_status": "active",
+      "company_type": "ltd",
+      "date_of_creation": "2015-02-17",
+      "address_snippet": "Unit 4 Kiln Farm, Tanners Drive, Milton Keynes, MK11 3JB",
+      "description": "09446231 - Incorporated on 17 February 2015",
+      "description_identifier": ["incorporated-on"],
+      "matches": {"title": [1, 7]},
+      "links": {"self": "/company/09446231"}
+    },
+    {
+      "kind": "searchresults#company",
+      "title": "HALCYON FORGE (HOLDINGS) LTD",
+      "company_number": "07120983",
+      "company_status": "dissolved",
+      "company_type": "ltd",
+      "date_of_creation": "2010-01-08",
+      "date_of_cessation": "2019-06-25",
+      "address_snippet": "12 Silbury Boulevard, Milton Keynes, MK9 2AF",
+      "description": "07120983 - Dissolved on 25 June 2019",
+      "description_identifier": ["dissolved-on"],
+      "links": {"self": "/company/07120983"}
+    }
+  ]
+}

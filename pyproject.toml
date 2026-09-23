@@ -1,0 +1,44 @@
+[build-system]
+requires = ["hatchling>=1.25"]
+build-backend = "hatchling.build"
+
+[project]
+name = "companies-house-mcp"
+version = "0.1.0"
+description = "Read-only MCP server for the UK Companies House register"
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [{ name = "Edward Radford", email = "contact@edwardradford.co.uk" }]
+dependencies = [
+    "mcp>=2.2,<3",
+    "httpx>=0.27,<1",
+    "pydantic>=2.7,<3",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "ruff>=0.6", "mypy>=1.11", "pyyaml>=6"]
+
+[project.scripts]
+companies-house-mcp = "companies_house_mcp.server:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/companies_house_mcp"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"
+filterwarnings = ["error::pytest.PytestUnraisableExceptionWarning"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py311"
+src = ["src", "tests", "scripts"]
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP", "SIM", "RUF", "ASYNC"]
+ignore = ["RUF001"]
+
+[tool.mypy]
+python_version = "3.11"
+strict = true
+files = ["src"]

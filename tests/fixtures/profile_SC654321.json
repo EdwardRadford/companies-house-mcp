@@ -1,0 +1,35 @@
+{
+  "company_name": "NORTHGATE PLANT HIRE LTD",
+  "company_number": "SC654321",
+  "company_status": "liquidation",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "type": "ltd",
+  "jurisdiction": "scotland",
+  "date_of_creation": "2020-03-02",
+  "has_charges": false,
+  "has_insolvency_history": true,
+  "has_been_liquidated": false,
+  "registered_office_is_in_dispute": true,
+  "undeliverable_registered_office_address": true,
+  "registered_office_address": {
+    "care_of": "Firth & Mowat Recovery LLP",
+    "address_line_1": "3 Castle Wynd",
+    "locality": "Inverness",
+    "postal_code": "IV2 3EQ",
+    "country": "Scotland"
+  },
+  "sic_codes": ["77320", "99999"],
+  "accounts": {
+    "last_accounts": {"type": "null"},
+    "next_due": "2025-12-02",
+    "next_made_up_to": "2025-03-31",
+    "overdue": true
+  },
+  "confirmation_statement": {
+    "last_made_up_to": "2024-03-01",
+    "next_due": "2025-03-15",
+    "next_made_up_to": "2025-03-01",
+    "overdue": true
+  },
+  "links": {"self": "/company/SC654321"}
+}

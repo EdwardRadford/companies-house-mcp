@@ -1,0 +1,59 @@
+{
+  "company_name": "HALCYON FORGE LIMITED",
+  "company_number": "09446231",
+  "company_status": "active",
+  "type": "ltd",
+  "jurisdiction": "england-wales",
+  "date_of_creation": "2015-02-17",
+  "has_charges": true,
+  "has_insolvency_history": false,
+  "has_been_liquidated": false,
+  "can_file": true,
+  "undeliverable_registered_office_address": false,
+  "registered_office_is_in_dispute": false,
+  "registered_office_address": {
+    "premises": "Unit 4",
+    "address_line_1": "Kiln Farm",
+    "address_line_2": "Tanners Drive",
+    "locality": "Milton Keynes",
+    "region": "Buckinghamshire",
+    "postal_code": "MK11 3JB",
+    "country": "England"
+  },
+  "sic_codes": ["25620", "62020"],
+  "previous_company_names": [
+    {"name": "HALCYON FABRICATION LIMITED", "effective_from": "2015-02-17", "ceased_on": "2018-09-03"}
+  ],
+  "accounts": {
+    "accounting_reference_date": {"day": "28", "month": "02"},
+    "last_accounts": {
+      "made_up_to": "2026-02-28",
+      "period_end_on": "2026-02-28",
+      "period_start_on": "2025-03-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2027-11-30",
+      "overdue": false,
+      "period_end_on": "2027-02-28",
+      "period_start_on": "2026-03-01"
+    },
+    "next_due": "2027-11-30",
+    "next_made_up_to": "2027-02-28",
+    "overdue": false
+  },
+  "confirmation_statement": {
+    "last_made_up_to": "2026-02-17",
+    "next_due": "2027-03-03",
+    "next_made_up_to": "2027-02-17",
+    "overdue": false
+  },
+  "etag": "4d2f1c0e9b8a7f6e5d4c3b2a19087f6e5d4c3b2a",
+  "links": {
+    "self": "/company/09446231",
+    "filing_history": "/company/09446231/filing-history",
+    "officers": "/company/09446231/officers",
+    "charges": "/company/09446231/charges",
+    "persons_with_significant_control": "/company/09446231/persons-with-significant-control"
+  }
+}

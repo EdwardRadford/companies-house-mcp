@@ -1,0 +1,12 @@
+{
+  "premises": "Unit 4",
+  "address_line_1": "Kiln Farm",
+  "address_line_2": "Tanners Drive",
+  "locality": "Milton Keynes",
+  "region": "Buckinghamshire",
+  "postal_code": "MK11 3JB",
+  "country": "England",
+  "etag": "f00d",
+  "kind": "registered-office-address",
+  "links": {"self": "/company/09446231/registered-office-address"}
+}

@@ -1,0 +1,77 @@
+{
+  "kind": "filing-history",
+  "filing_history_status": "filing-history-available",
+  "total_count": 41,
+  "items_per_page": 6,
+  "start_index": 0,
+  "items": [
+    {
+      "transaction_id": "MzQ1Njc4OTAxMmFkaXF6a2N4",
+      "category": "confirmation-statement",
+      "date": "2026-02-24",
+      "type": "CS01",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {"made_up_date": "2026-02-17"},
+      "pages": 3,
+      "barcode": "XE1A2B3C",
+      "links": {
+        "self": "/company/09446231/filing-history/MzQ1Njc4OTAxMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/abc"
+      }
+    },
+    {
+      "transaction_id": "MzQ0MDk4NzY1NGFkaXF6a2N4",
+      "category": "accounts",
+      "date": "2025-11-19",
+      "type": "AA",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {"made_up_date": "2025-02-28"},
+      "pages": 4,
+      "links": {"document_metadata": "https://document-api.company-information.service.gov.uk/document/def"}
+    },
+    {
+      "transaction_id": "MzQyMjIyMjIyMmFkaXF6a2N4",
+      "category": "mortgage",
+      "subcategory": "create",
+      "date": "2024-06-12",
+      "type": "MR01",
+      "description": "mortgage-create-with-deed-with-charge-number-charge-creation-date",
+      "description_values": {"charge_number": "094462310002", "charge_creation_date": "2024-06-05"},
+      "pages": 22,
+      "links": {"document_metadata": "https://document-api.company-information.service.gov.uk/document/ghi"}
+    },
+    {
+      "transaction_id": "MzI2NTQzMjEwMGFkaXF6a2N4",
+      "category": "address",
+      "date": "2021-05-10",
+      "type": "AD01",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "old_address": "12 Silbury Boulevard Milton Keynes MK9 2AF",
+        "new_address": "Unit 4 Kiln Farm Tanners Drive Milton Keynes MK11 3JB",
+        "change_date": "2021-05-10"
+      },
+      "pages": 1
+    },
+    {
+      "transaction_id": "MzI0MDAwMDAwMGFkaXF6a2N4",
+      "category": "officers",
+      "subcategory": "appointments",
+      "date": "2019-11-06",
+      "type": "AP01",
+      "description": "appoint-person-director-company-with-name-date",
+      "description_values": {"officer_name": "Mr Tomasz Brandt", "appointment_date": "2019-11-04"},
+      "pages": 2
+    },
+    {
+      "transaction_id": "MTExMTExMTExMWFkaXF6a2N4",
+      "category": "miscellaneous",
+      "date": "2016-03-01",
+      "type": "MISC",
+      "description": "legacy",
+      "description_values": {"description": "Section 519 statement from outgoing auditor"},
+      "pages": 1,
+      "paper_filed": true
+    }
+  ]
+}

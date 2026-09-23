@@ -46,8 +46,16 @@ class _Route:
     calls: int = 0
 
 
+_LIST_RESOURCES = {"officers", "filing-history", "charges", "persons-with-significant-control"}
+
+
 class FakeCompaniesHouse:
-    """Routes by path (and optionally query params). Unknown paths get a 404, as upstream does."""
+    """Routes by path (and optionally query params), otherwise behaves as the live API does.
+
+    Checked against the live API on 23 Sep 2026: a list under a company that
+    does not exist is 200 with no items; the profile and registered office
+    address of a company that does not exist are 404.
+    """
 
     def __init__(self) -> None:
         self._routes: list[_Route] = []
@@ -73,7 +81,10 @@ class FakeCompaniesHouse:
                 if reply.raw_text is not None:
                     return httpx.Response(reply.status, text=reply.raw_text, headers=reply.headers)
                 return httpx.Response(reply.status, json=reply.body, headers=reply.headers)
-        return httpx.Response(404, json={"errors": [{"error": "not-found", "type": "ch:service"}]})
+        parts = request.url.path.strip("/").split("/")
+        if len(parts) == 3 and parts[0] == "company" and parts[2] in _LIST_RESOURCES:
+            return httpx.Response(200, json={"items": [], "total_results": 0, "total_count": 0, "start_index": 0})
+        return httpx.Response(404, json={"message": "404 NOT_FOUND"})
 
 
 async def _no_sleep(_: float) -> None:

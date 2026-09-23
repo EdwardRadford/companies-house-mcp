@@ -1,0 +1,156 @@
+{
+ "filing_history_status": "filing-history-available",
+ "items": [
+  {
+   "transaction_id": "MzIwODI2ODIzMmFkaXF6a2N4",
+   "type": "GAZ2",
+   "date": "2018-07-03",
+   "category": "gazette",
+   "description": "gazette-dissolved-compulsory",
+   "pages": 1,
+   "paper_filed": true,
+   "links": {
+    "self": "/company/SC535479/filing-history/MzIwODI2ODIzMmFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/CmZF_fj2KFfXaPlftwdwYCc7wnNpX9LOjj8pKoRDzy8"
+   }
+  },
+  {
+   "transaction_id": "MzIwMjM4MTA4MmFkaXF6a2N4",
+   "type": "GAZ1",
+   "date": "2018-04-17",
+   "category": "gazette",
+   "description": "gazette-notice-compulsory",
+   "pages": 1,
+   "paper_filed": true,
+   "links": {
+    "self": "/company/SC535479/filing-history/MzIwMjM4MTA4MmFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/fCOIDcp9f75xFBiYaVe4Sr_xh-gp_ldZ3CR2y19XDs8"
+   }
+  },
+  {
+   "transaction_id": "MzE4MDAzNjQwMWFkaXF6a2N4",
+   "barcode": "X6A6QC48",
+   "type": "AD01",
+   "date": "2017-07-07",
+   "category": "address",
+   "description": "change-registered-office-address-company-with-date-old-address-new-address",
+   "description_values": {
+    "change_date": "2017-07-07",
+    "old_address": "9 Malcolm Street Dunfermline KY11 4QF United Kingdom",
+    "new_address": "Pitconnochie House Crossford Dunfermline KY12 8RH"
+   },
+   "pages": 1,
+   "action_date": "2017-07-07",
+   "links": {
+    "self": "/company/SC535479/filing-history/MzE4MDAzNjQwMWFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/9nK9tO0cyEAljlzEHBXZ2ivPOFkT34hnVkKsMlwt45I"
+   }
+  },
+  {
+   "transaction_id": "MzE4MDAzOTQ1OWFkaXF6a2N4",
+   "barcode": "X6A6U7KB",
+   "type": "CS01",
+   "date": "2017-07-07",
+   "category": "confirmation-statement",
+   "description": "confirmation-statement-with-updates",
+   "description_values": {
+    "made_up_date": "2017-05-15"
+   },
+   "pages": 4,
+   "action_date": "2017-05-15",
+   "links": {
+    "self": "/company/SC535479/filing-history/MzE4MDAzOTQ1OWFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/hJl2W7uqA30UYZJizkqdsBBUyrSz1VVokkiy30Iy8S0"
+   }
+  },
+  {
+   "transaction_id": "MzE4MDAzODQ5NmFkaXF6a2N4",
+   "barcode": "X6A6SVJF",
+   "type": "PSC01",
+   "date": "2017-07-07",
+   "category": "persons-with-significant-control",
+   "subcategory": "notifications",
+   "description": "notification-of-a-person-with-significant-control",
+   "description_values": {
+    "psc_name": "Redacted Person",
+    "notification_date": "2016-05-30"
+   },
+   "pages": 2,
+   "action_date": "2016-05-30",
+   "links": {
+    "self": "/company/SC535479/filing-history/MzE4MDAzODQ5NmFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/lnUIfd2oeoRdEPFMoGJpb9QVaU-vCxx_KYdrULjah40"
+   }
+  },
+  {
+   "transaction_id": "MzE1MTY2MjkzMWFkaXF6a2N4",
+   "barcode": "X59WY622",
+   "type": "RESOLUTIONS",
+   "date": "2016-06-26",
+   "category": "resolution",
+   "resolutions": [
+    {
+     "category": "change-of-name",
+     "description": "resolution-change-of-name",
+     "type": "RES15",
+     "subcategory": "resolution",
+     "description_values": {
+      "resolution_date": "2016-06-25"
+     }
+    }
+   ],
+   "associated_filings": [
+    {
+     "category": "change-of-name",
+     "date": "2016-06-26",
+     "description": "change-of-name-by-resolution",
+     "type": "NM01"
+    }
+   ],
+   "subcategory": "certificate",
+   "description": "resolution",
+   "description_values": {
+    "description": "Resolutions"
+   },
+   "pages": 3,
+   "links": {
+    "self": "/company/SC535479/filing-history/MzE1MTY2MjkzMWFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/4P7Ztn-k2tmKB_5sr74bBkkWmcfuRVGEJpF01U4yXFk"
+   }
+  },
+  {
+   "transaction_id": "MzE0ODU3Mjc5OWFkaXF6a2N4",
+   "barcode": "X575AM2Q",
+   "type": "NEWINC",
+   "date": "2016-05-16",
+   "category": "incorporation",
+   "associated_filings": [
+    {
+     "category": "capital",
+     "date": "2016-05-16",
+     "description": "statement-of-capital",
+     "type": "SH01",
+     "description_values": {
+      "date": "2016-05-16",
+      "capital": [
+       {
+        "currency": "GBP",
+        "figure": "1"
+       }
+      ]
+     },
+     "action_date": "2016-05-16"
+    }
+   ],
+   "description": "incorporation-company",
+   "pages": 26,
+   "links": {
+    "self": "/company/SC535479/filing-history/MzE0ODU3Mjc5OWFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/PIDm9BXGd8gbGqRNjPz6ujd56BWUW0_AQwMMD0db_iY"
+   }
+  }
+ ],
+ "items_per_page": 100,
+ "start_index": 0,
+ "total_count": 7
+}

@@ -1,7 +1,7 @@
-"""Shape every live recording, if any exist (see scripts/record_fixtures.py).
+"""Shape every live recording (see scripts/record_fixtures.py).
 
-Skipped until recordings are made. Once they are, this is the check that the
-spec-shaped fixtures and the real API agree.
+This is the check that the shaping layer holds up on the real API, not just on
+fixtures written from its specification.
 """
 
 import json

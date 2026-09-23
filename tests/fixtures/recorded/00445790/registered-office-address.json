@@ -1,0 +1,12 @@
+{
+ "etag": "b0711fe6fc8e9936a50a1e14e40ef9367f46bbf6",
+ "kind": "registered-office-address",
+ "links": {
+  "self": "/company/00445790/registered-office-address"
+ },
+ "address_line_1": "Tesco House, Shire Park",
+ "address_line_2": "Kestrel Way",
+ "country": "United Kingdom",
+ "locality": "Welwyn Garden City",
+ "postal_code": "AL7 1GA"
+}

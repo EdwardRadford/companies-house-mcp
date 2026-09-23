@@ -1,0 +1,68 @@
+{
+ "items_per_page": 100,
+ "items": [
+  {
+   "etag": "0b68046dcbb03eec97f67731f40c906348b651cf",
+   "notified_on": "2021-03-18",
+   "ceased_on": "2026-06-01",
+   "name": "Deloitte Nse No3 Limited",
+   "links": {
+    "self": "/company/OC303675/persons-with-significant-control/corporate-entity/8qmfQrsAfp26pR7ndFNoruSjPRE"
+   },
+   "identification": {
+    "legal_form": "Limited By Guarantee",
+    "legal_authority": "United Kingdom (England And Wales)",
+    "country_registered": "England And Wales",
+    "place_registered": "Companies House",
+    "registration_number": "12967301"
+   },
+   "ceased": true,
+   "kind": "corporate-entity-person-with-significant-control",
+   "address": {
+    "address_line_1": "New Street Square",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "EC4A 3HQ",
+    "premises": "1"
+   },
+   "natures_of_control": [
+    "significant-influence-or-control-limited-liability-partnership"
+   ]
+  },
+  {
+   "etag": "6eb8b76718e5d60bbb49adb2c895877a4fb7a637",
+   "notified_on": "2017-06-01",
+   "ceased_on": "2026-06-01",
+   "name": "Deloitte Nse Llp",
+   "links": {
+    "self": "/company/OC303675/persons-with-significant-control/corporate-entity/Bx-ed45V15vBwFsNPDn7ec_osU0"
+   },
+   "identification": {
+    "legal_form": "Limited Liability Partnership",
+    "legal_authority": "United Kingdom (England And Wales)",
+    "country_registered": "England And Wales",
+    "place_registered": "Companies House",
+    "registration_number": "Oc417204"
+   },
+   "ceased": true,
+   "kind": "corporate-entity-person-with-significant-control",
+   "address": {
+    "address_line_1": "New Street Square",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "EC4A 3BZ",
+    "premises": "2"
+   },
+   "natures_of_control": [
+    "significant-influence-or-control-limited-liability-partnership"
+   ]
+  }
+ ],
+ "start_index": 0,
+ "total_results": 2,
+ "active_count": 0,
+ "ceased_count": 2,
+ "links": {
+  "self": "/company/OC303675/persons-with-significant-control"
+ }
+}

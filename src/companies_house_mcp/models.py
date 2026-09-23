@@ -102,7 +102,7 @@ class CompanyProfile(_Model):
         default_factory=list,
         description=(
             "Plain-English red flags derived from the record: overdue filings, insolvency, "
-            "a disputed or undeliverable registered office. Empty means none were found, "
+            "a disputed, undeliverable or Companies House default registered office. Empty means none were found, "
             "not that the company has been vetted."
         ),
     )
@@ -191,10 +191,20 @@ class ChargeList(_Model):
 
 
 class AddressChange(_Model):
-    changed_on: date | None = Field(description="Date the change took effect.")
+    changed_on: date | None = Field(description="Date the change took effect, where the filing states it.")
     filed_on: date | None = None
-    old_address: str | None = None
+    old_address: str | None = Field(default=None, description="Null on older paper filings; see description.")
     new_address: str | None = None
+    to_companies_house_default: bool = Field(
+        default=False,
+        description=(
+            "True when Companies House itself moved the registered office to its default address, "
+            "which it does when the real address is shown to be wrong. A red flag."
+        ),
+    )
+    description: str = Field(
+        description="The filing as the register describes it; carries the detail of old paper filings."
+    )
     form: str | None = None
 
 

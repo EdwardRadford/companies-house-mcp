@@ -1,0 +1,12 @@
+{
+ "etag": "bcbda9c1c29fcaaecb86191c70aafece819f9c26",
+ "kind": "registered-office-address",
+ "links": {
+  "self": "/company/SC535479/registered-office-address"
+ },
+ "address_line_1": "Pitconnochie House",
+ "address_line_2": "Crossford",
+ "country": "Scotland",
+ "locality": "Dunfermline",
+ "postal_code": "KY12 8RH"
+}

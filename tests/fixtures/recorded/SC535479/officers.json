@@ -1,0 +1,41 @@
+{
+ "active_count": 0,
+ "etag": "6f0bc5cfb70a5199ac6eefeb35c260f3dad891e1",
+ "items": [
+  {
+   "etag": "6f0bc5cfb70a5199ac6eefeb35c260f3dad891e1",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2016-05-16",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/SC535479/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 1",
+   "nationality": "Scottish",
+   "officer_role": "director",
+   "person_number": "208153850001"
+  }
+ ],
+ "items_per_page": 100,
+ "kind": "officer-list",
+ "links": {
+  "self": "/company/SC535479/officers"
+ },
+ "resigned_count": 0,
+ "inactive_count": 1,
+ "start_index": 0,
+ "total_results": 1
+}

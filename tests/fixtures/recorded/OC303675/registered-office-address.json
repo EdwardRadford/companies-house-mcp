@@ -1,0 +1,11 @@
+{
+ "etag": "674886b2f19e1755560e932dd2691c9ab6d3c07f",
+ "kind": "registered-office-address",
+ "links": {
+  "self": "/company/OC303675/registered-office-address"
+ },
+ "address_line_1": "1 New Street Square",
+ "country": "United Kingdom",
+ "locality": "London",
+ "postal_code": "EC4A 3HQ"
+}

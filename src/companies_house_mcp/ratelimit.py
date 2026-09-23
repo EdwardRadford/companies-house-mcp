@@ -12,7 +12,7 @@ search hits) can hit that in seconds. So the limiter does two things:
   agent than an error saying "try again in 240 seconds".
 
 It also defers to the server: if a response says the key is exhausted
-(X-Ratelimit-Remaining: 0), the limiter blocks until X-Ratelimit-Reset,
+(X-Ratelimit-Remain: 0), the limiter blocks until X-Ratelimit-Reset,
 which covers other processes sharing the same key.
 """
 
@@ -73,7 +73,7 @@ class SlidingWindowLimiter:
             self._sent.append(self._clock())
 
     def observe(self, remaining: str | None, reset_epoch: str | None) -> None:
-        """Feed the server's X-Ratelimit-Remaining / X-Ratelimit-Reset headers back in."""
+        """Feed the server's X-Ratelimit-Remain / X-Ratelimit-Reset headers back in."""
         if remaining is None or reset_epoch is None:
             return
         try:

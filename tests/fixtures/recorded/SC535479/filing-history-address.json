@@ -1,0 +1,27 @@
+{
+ "filing_history_status": "filing-history-available",
+ "items": [
+  {
+   "transaction_id": "MzE4MDAzNjQwMWFkaXF6a2N4",
+   "barcode": "X6A6QC48",
+   "type": "AD01",
+   "date": "2017-07-07",
+   "category": "address",
+   "description": "change-registered-office-address-company-with-date-old-address-new-address",
+   "description_values": {
+    "change_date": "2017-07-07",
+    "old_address": "9 Malcolm Street Dunfermline KY11 4QF United Kingdom",
+    "new_address": "Pitconnochie House Crossford Dunfermline KY12 8RH"
+   },
+   "pages": 1,
+   "action_date": "2017-07-07",
+   "links": {
+    "self": "/company/SC535479/filing-history/MzE4MDAzNjQwMWFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/9nK9tO0cyEAljlzEHBXZ2ivPOFkT34hnVkKsMlwt45I"
+   }
+  }
+ ],
+ "items_per_page": 100,
+ "start_index": 0,
+ "total_count": 1
+}

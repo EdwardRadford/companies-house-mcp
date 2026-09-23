@@ -13,6 +13,7 @@ from importlib import resources
 from typing import Any
 
 _PLACEHOLDER = re.compile(r"\{(\w+)\}")
+_EMPTY_PARTS = re.compile(r"(?:\s*,)+")
 
 
 @cache
@@ -38,6 +39,23 @@ def sic_description(code: str) -> str | None:
     return _tables()["sic_descriptions"].get(code)
 
 
+def tidy_address(text: object) -> str | None:
+    """Address strings in filing values arrive as ", Tesco House, Delamare Road,, Cheshunt,, Herts"."""
+    if not isinstance(text, str):
+        return None
+    tidy = _EMPTY_PARTS.sub(",", text)
+    tidy = re.sub(r",(?=\S)", ", ", tidy)
+    tidy = re.sub(r"\s{2,}", " ", tidy).strip(" ,")
+    return tidy or None
+
+
+def _value(values: dict[str, Any], name: str) -> str:
+    raw = values.get(name, "")
+    if name.endswith("address"):
+        return tidy_address(raw) or ""
+    return str(raw).strip()
+
+
 def filing_description(key: str | None, values: dict[str, Any] | None) -> str:
     """Render a filing-history description the way the register's website does.
 
@@ -50,6 +68,6 @@ def filing_description(key: str | None, values: dict[str, Any] | None) -> str:
     if not template:
         fallback = values.get("description")
         return str(fallback) if fallback else humanise(key or "filing")
-    text = _PLACEHOLDER.sub(lambda m: str(values.get(m.group(1), "")).strip(), template)
+    text = _PLACEHOLDER.sub(lambda m: _value(values, m.group(1)), template)
     text = text.replace("**", "")
     return re.sub(r"\s{2,}", " ", text).strip().rstrip(",")

@@ -1,0 +1,42 @@
+{
+ "items_per_page": 100,
+ "items": [
+  {
+   "etag": "062de63d1c439a5697b560bfc47aca6f1d28c8dc",
+   "notified_on": "2016-04-06",
+   "name": "Littlewoods Limited",
+   "links": {
+    "self": "/company/06732228/persons-with-significant-control/corporate-entity/-QfaIh46K5tdHqXLHseBmxEuHNE"
+   },
+   "identification": {
+    "legal_form": "Limited By Shares",
+    "legal_authority": "United Kingdom",
+    "country_registered": "United Kingdom",
+    "place_registered": "Companies House",
+    "registration_number": "00262152"
+   },
+   "ceased": false,
+   "kind": "corporate-entity-person-with-significant-control",
+   "address": {
+    "address_line_1": "Speke Road",
+    "address_line_2": "Speke",
+    "country": "United Kingdom",
+    "locality": "Liverpool",
+    "postal_code": "L70 1AB",
+    "premises": "First Floor, Skyways House"
+   },
+   "natures_of_control": [
+    "ownership-of-shares-75-to-100-percent",
+    "voting-rights-75-to-100-percent",
+    "right-to-appoint-and-remove-directors"
+   ]
+  }
+ ],
+ "start_index": 0,
+ "total_results": 1,
+ "active_count": 1,
+ "ceased_count": 0,
+ "links": {
+  "self": "/company/06732228/persons-with-significant-control"
+ }
+}

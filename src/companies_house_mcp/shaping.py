@@ -173,6 +173,12 @@ def company_profile(raw: JSON) -> CompanyProfile:
         warnings.append("The registered office address is in dispute.")
     if raw.get("undeliverable_registered_office_address"):
         warnings.append("Mail to the registered office has been returned as undeliverable.")
+    office = one_line_address(raw.get("registered_office_address"))
+    if office and "companies house default address" in office.lower():
+        warnings.append(
+            "The registered office is the Companies House default address: Companies House moved it "
+            "there because the company's own address was shown to be wrong."
+        )
 
     return CompanyProfile(
         company_number=str(raw.get("company_number", "")),
@@ -183,7 +189,7 @@ def company_profile(raw: JSON) -> CompanyProfile:
         jurisdiction=enums.label("jurisdiction", raw.get("jurisdiction")),
         incorporated_on=_d(raw.get("date_of_creation")),
         dissolved_on=_d(raw.get("date_of_cessation")),
-        registered_office=one_line_address(raw.get("registered_office_address")),
+        registered_office=office,
         sic_codes=[SicCode(code=str(c), description=enums.sic_description(str(c))) for c in raw.get("sic_codes") or []],
         previous_names=[
             PreviousName(
@@ -304,25 +310,44 @@ def charge_list(company_number: str, raw: JSON, start_index: int, outstanding_on
 # -- registered office -------------------------------------------------------
 
 
-_ADDRESS_FORMS = {"AD01", "AD02", "AD03", "AD04", "287", "LLAD01", "NI 295"}
+# The "address" filing category also holds changes to the register inspection
+# location (AD02-AD04) and register moves, which are not registered office
+# moves. These are the description keys that are (checked against live
+# filings for five companies, 23 Sep 2026).
+_ROA_CHANGE_PREFIXES = (
+    "change-registered-office-addres",  # sic: one upstream key drops the final s
+    "default-companies-house-registered-office-address-applied",
+    "order-of-court-registered-office-address-change",
+    "update-to-limited-partnership-details-registered-office-address",
+)
+_LEGACY_ROA_FORMS = {"287", "LLP287"}
+
+
+def _is_registered_office_change(i: JSON) -> bool:
+    key = str(i.get("description") or "")
+    if key.startswith(_ROA_CHANGE_PREFIXES) or i.get("type") in _LEGACY_ROA_FORMS:
+        return True
+    legacy_text = str(_obj(i.get("description_values")).get("description", ""))
+    return key == "legacy" and legacy_text.lower().startswith("registered office changed")
 
 
 def registered_office_history(company_number: str, current: JSON, filings: JSON) -> RegisteredOfficeHistory:
     items = _items(filings.get("items"))
     changes = []
     for i in items:
-        values = _obj(i.get("description_values"))
-        form = i.get("type")
-        is_change = form in _ADDRESS_FORMS or "change-registered-office-address" in str(i.get("description", ""))
-        if not is_change:
+        if not _is_registered_office_change(i):
             continue
+        values = _obj(i.get("description_values"))
+        default = values.get("default_address")
         changes.append(
             AddressChange(
-                changed_on=_d(values.get("change_date")) or _d(i.get("action_date")) or _d(i.get("date")),
+                changed_on=_d(values.get("change_date")) or _d(i.get("action_date")),
                 filed_on=_d(i.get("date")),
-                old_address=values.get("old_address"),
-                new_address=values.get("new_address"),
-                form=form,
+                old_address=enums.tidy_address(values.get("old_address")),
+                new_address=enums.tidy_address(values.get("new_address") or default),
+                to_companies_house_default=bool(default),
+                description=enums.filing_description(i.get("description"), values),
+                form=i.get("type"),
             )
         )
     total = _int(filings.get("total_count"), len(items))

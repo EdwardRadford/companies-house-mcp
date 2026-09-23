@@ -1,0 +1,1900 @@
+{
+ "filing_history_status": "filing-history-available",
+ "items": [
+  {
+   "transaction_id": "MzU0NTI4NTY5NGFkaXF6a2N4",
+   "barcode": "XFAPUL5E",
+   "type": "LLAP01",
+   "date": "2026-09-18",
+   "category": "officers",
+   "subcategory": "appointments",
+   "description": "appoint-person-member-limited-liability-partnership-with-appointment-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "appointment_date": "2026-09-14"
+   },
+   "pages": 2,
+   "action_date": "2026-09-14",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzU0NTI4NTY5NGFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/nUA4iarRi6X2A2XvIgwM6wZoF8xC5tX__htKTGXNn30"
+   }
+  },
+  {
+   "transaction_id": "MzU0NDk3Njg0NGFkaXF6a2N4",
+   "barcode": "XFAMXN82",
+   "type": "LLCS01",
+   "date": "2026-09-15",
+   "category": "confirmation-statement",
+   "description": "confirmation-statement-with-no-updates",
+   "description_values": {
+    "made_up_date": "2026-07-31"
+   },
+   "pages": 3,
+   "action_date": "2026-07-31",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzU0NDk3Njg0NGFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/RjoH6oExiq3-lCqjm757yFhcL86hnw6PPgVWhG7-NwA"
+   }
+  },
+  {
+   "transaction_id": "MzU0NDU0MDQ4NmFkaXF6a2N4",
+   "barcode": "XFAMGZ0O",
+   "type": "LLCH01",
+   "date": "2026-09-15",
+   "category": "officers",
+   "subcategory": "change",
+   "description": "change-person-member-limited-liability-partnership-with-name-change-date",
+   "description_values": {
+    "change_date": "2026-09-01",
+    "officer_name": "Redacted Person"
+   },
+   "pages": 2,
+   "action_date": "2026-09-01",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzU0NDU0MDQ4NmFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/J-f-DpuVU7rbwvIGsd_MfhPizV3E69pkdpe5lp1wTcA"
+   }
+  },
+  {
+   "transaction_id": "MzU0NDEyNjEzMGFkaXF6a2N4",
+   "barcode": "XFAEL6CB",
+   "type": "LLTM01",
+   "date": "2026-09-14",
+   "category": "officers",
+   "subcategory": "termination",
+   "description": "termination-member-limited-liability-partnership-with-name-termination-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "termination_date": "2026-08-31"
+   },
+   "pages": 1,
+   "action_date": "2026-08-31",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzU0NDEyNjEzMGFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/ffy0UNK9LrXvc9liiweTLd9-X6-2FX0IfuahhaO2X4M"
+   }
+  },
+  {
+   "transaction_id": "MzU0NDEyNjEyN2FkaXF6a2N4",
+   "barcode": "XFAEL6BV",
+   "type": "LLTM01",
+   "date": "2026-09-14",
+   "category": "officers",
+   "subcategory": "termination",
+   "description": "termination-member-limited-liability-partnership-with-name-termination-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "termination_date": "2026-08-31"
+   },
+   "pages": 1,
+   "action_date": "2026-08-31",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzU0NDEyNjEyN2FkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/fAVX2trnWIT8z-UVaqnrGkfQmltNdpJJ8pEub0LcIeY"
+   }
+  },
+  {
+   "transaction_id": "MzU0NDEyNTA0NWFkaXF6a2N4",
+   "barcode": "XFAEL2EZ",
+   "type": "LLTM01",
+   "date": "2026-09-14",
+   "category": "officers",
+   "subcategory": "termination",
+   "description": "termination-member-limited-liability-partnership-with-name-termination-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "termination_date": "2026-08-31"
+   },
+   "pages": 1,
+   "action_date": "2026-08-31",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzU0NDEyNTA0NWFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/JZBh0N09JBFPbZxj3lAAxqxnim_1GDOl_Ny_H9ZF2Tc"
+   }
+  },
+  {
+   "transaction_id": "MzU0NDEyNjEyOGFkaXF6a2N4",
+   "barcode": "XFAEL6C7",
+   "type": "LLTM01",
+   "date": "2026-09-14",
+   "category": "officers",
+   "subcategory": "termination",
+   "description": "termination-member-limited-liability-partnership-with-name-termination-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "termination_date": "2026-08-31"
+   },
+   "pages": 1,
+   "action_date": "2026-08-31",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzU0NDEyNjEyOGFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/UuK13qFhLSTEOb1Leia0PKhwt3tLuQSpM5kLVmRPABM"
+   }
+  },
+  {
+   "transaction_id": "MzU0NDEyNjEzMWFkaXF6a2N4",
+   "barcode": "XFAEL6CJ",
+   "type": "LLTM01",
+   "date": "2026-09-14",
+   "category": "officers",
+   "subcategory": "termination",
+   "description": "termination-member-limited-liability-partnership-with-name-termination-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "termination_date": "2026-08-31"
+   },
+   "pages": 1,
+   "action_date": "2026-08-31",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzU0NDEyNjEzMWFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/AkcPGKMe-eSpOQsi-UL5pwR9vQYDpPy9Mi5jXv7Nffs"
+   }
+  },
+  {
+   "transaction_id": "MzU0MjEyODM4N2FkaXF6a2N4",
+   "barcode": "XF9RPLRK",
+   "type": "LLCH01",
+   "date": "2026-09-03",
+   "category": "officers",
+   "subcategory": "change",
+   "description": "change-person-member-limited-liability-partnership-with-name-change-date",
+   "description_values": {
+    "change_date": "2026-07-01",
+    "officer_name": "Redacted Person"
+   },
+   "pages": 2,
+   "action_date": "2026-07-01",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzU0MjEyODM4N2FkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/CAA_n5fdOJwY1KkQT0U36KyuhqumJM9qeBHqOK64EEg"
+   }
+  },
+  {
+   "transaction_id": "MzU0MjA5OTI5M2FkaXF6a2N4",
+   "barcode": "XF9RLLO0",
+   "type": "LLAP01",
+   "date": "2026-09-02",
+   "category": "officers",
+   "subcategory": "appointments",
+   "description": "appoint-person-member-limited-liability-partnership-with-appointment-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "appointment_date": "2026-09-01"
+   },
+   "pages": 2,
+   "action_date": "2026-09-01",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzU0MjA5OTI5M2FkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/X7uEp9dsMaAVuZ3Z6q1uHQG4JBbMeITCM4p0kAon7LU"
+   }
+  },
+  {
+   "transaction_id": "MzU0MjA5OTI5MWFkaXF6a2N4",
+   "barcode": "XF9RLLNK",
+   "type": "LLAP01",
+   "date": "2026-09-02",
+   "category": "officers",
+   "subcategory": "appointments",
+   "description": "appoint-person-member-limited-liability-partnership-with-appointment-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "appointment_date": "2026-09-01"
+   },
+   "pages": 2,
+   "action_date": "2026-09-01",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzU0MjA5OTI5MWFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/Zxebdx04peuVYIiSTm6vztL9jMcCwPKyUTbMQEUkVJY"
+   }
+  },
+  {
+   "transaction_id": "MzU0MjA5OTI5MmFkaXF6a2N4",
+   "barcode": "XF9RLLNS",
+   "type": "LLAP01",
+   "date": "2026-09-02",
+   "category": "officers",
+   "subcategory": "appointments",
+   "description": "appoint-person-member-limited-liability-partnership-with-appointment-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "appointment_date": "2026-09-01"
+   },
+   "pages": 2,
+   "action_date": "2026-09-01",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzU0MjA5OTI5MmFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/faCNkJkVKj9ysukrh0fvl5BAo18Bx1JUwSyOOEuMKrQ"
+   }
+  },
+  {
+   "transaction_id": "MzUzOTkzNTU5NWFkaXF6a2N4",
+   "barcode": "XF8U6E43",
+   "type": "LLCH01",
+   "date": "2026-08-20",
+   "category": "officers",
+   "subcategory": "change",
+   "description": "change-person-member-limited-liability-partnership-with-name-change-date",
+   "description_values": {
+    "change_date": "2026-08-19",
+    "officer_name": "Redacted Person"
+   },
+   "pages": 2,
+   "action_date": "2026-08-19",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUzOTkzNTU5NWFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/v6rYQKtc26zr66vuA2pQR-28oB0YhS5kkvNWSvH2RkQ"
+   }
+  },
+  {
+   "transaction_id": "MzUzOTkzNTU5NmFkaXF6a2N4",
+   "barcode": "XF8U6E4I",
+   "type": "LLCH01",
+   "date": "2026-08-20",
+   "category": "officers",
+   "subcategory": "change",
+   "description": "change-person-member-limited-liability-partnership-with-name-change-date",
+   "description_values": {
+    "change_date": "2026-08-19",
+    "officer_name": "Redacted Person"
+   },
+   "pages": 2,
+   "action_date": "2026-08-19",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUzOTkzNTU5NmFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/SI1q5g9LFfcOnqXD941iiDCgILx4fDRY5LCBtCCdKhI"
+   }
+  },
+  {
+   "transaction_id": "MzUzOTExNjkzNmFkaXF6a2N4",
+   "barcode": "XF8OCTUR",
+   "type": "LLCH01",
+   "date": "2026-08-18",
+   "category": "officers",
+   "subcategory": "change",
+   "description": "change-person-member-limited-liability-partnership-with-name-change-date",
+   "description_values": {
+    "change_date": "2026-08-05",
+    "officer_name": "Redacted Person"
+   },
+   "pages": 2,
+   "action_date": "2026-08-05",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUzOTExNjkzNmFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/dedbo2qezgWaflI1fvfaopflsrEDMw99CZ2yADNR3BI"
+   }
+  },
+  {
+   "transaction_id": "MzUzOTA2MjYyMWFkaXF6a2N4",
+   "barcode": "XF8O5WRL",
+   "type": "LLCH01",
+   "date": "2026-08-17",
+   "category": "officers",
+   "subcategory": "change",
+   "description": "change-person-member-limited-liability-partnership-with-name-change-date",
+   "description_values": {
+    "change_date": "2026-08-05",
+    "officer_name": "Redacted Person"
+   },
+   "pages": 2,
+   "action_date": "2026-08-05",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUzOTA2MjYyMWFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/WrUNr1_Qiy8_C4xgHHuamQoStmJspi62KyVRbX3gIP8"
+   }
+  },
+  {
+   "transaction_id": "MzUzOTA2MjA3OWFkaXF6a2N4",
+   "barcode": "XF8O5U1F",
+   "type": "LLCH01",
+   "date": "2026-08-17",
+   "category": "officers",
+   "subcategory": "change",
+   "description": "change-person-member-limited-liability-partnership-with-name-change-date",
+   "description_values": {
+    "change_date": "2026-08-05",
+    "officer_name": "Redacted Person"
+   },
+   "pages": 2,
+   "action_date": "2026-08-05",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUzOTA2MjA3OWFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/wX7hzkrW0poi2G0N6TERJ0Esk-2j8CTs0_CR9AYZFRo"
+   }
+  },
+  {
+   "transaction_id": "MzUzNjk5NDY2N2FkaXF6a2N4",
+   "barcode": "XF7RAXMY",
+   "type": "LLAP01",
+   "date": "2026-08-04",
+   "category": "officers",
+   "subcategory": "appointments",
+   "description": "appoint-person-member-limited-liability-partnership-with-appointment-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "appointment_date": "2026-08-03"
+   },
+   "pages": 2,
+   "action_date": "2026-08-03",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUzNjk5NDY2N2FkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/yxXzTOBfpZZkg0AHdR99elbFbyLA66Cja1972G2WLu0"
+   }
+  },
+  {
+   "transaction_id": "MzUzNjcwNzkwN2FkaXF6a2N4",
+   "barcode": "XF7OHXV7",
+   "type": "LLCH01",
+   "date": "2026-08-03",
+   "category": "officers",
+   "subcategory": "change",
+   "description": "change-person-member-limited-liability-partnership-with-name-change-date",
+   "description_values": {
+    "change_date": "2026-07-30",
+    "officer_name": "Redacted Person"
+   },
+   "pages": 2,
+   "action_date": "2026-07-30",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUzNjcwNzkwN2FkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/nPNkGMxbPVlSS2__gtZ54QuYvMy01xpfhjgGS_TQ43g"
+   }
+  },
+  {
+   "transaction_id": "MzUzNjcwNzkwNmFkaXF6a2N4",
+   "barcode": "XF7OHXUZ",
+   "type": "LLCH01",
+   "date": "2026-08-03",
+   "category": "officers",
+   "subcategory": "change",
+   "description": "change-person-member-limited-liability-partnership-with-name-change-date",
+   "description_values": {
+    "change_date": "2026-07-30",
+    "officer_name": "Redacted Person"
+   },
+   "pages": 2,
+   "action_date": "2026-07-30",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUzNjcwNzkwNmFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/vndQE9xBQv9ObhxINDNCEP2ZSl8hdXbHxee0I5iFEYI"
+   }
+  },
+  {
+   "transaction_id": "MzUzNDMzODcxNmFkaXF6a2N4",
+   "barcode": "XF6TOQ9C",
+   "type": "LLCH01",
+   "date": "2026-07-22",
+   "category": "officers",
+   "subcategory": "change",
+   "description": "change-person-member-limited-liability-partnership-with-name-change-date",
+   "description_values": {
+    "change_date": "2026-07-15",
+    "officer_name": "Redacted Person"
+   },
+   "pages": 2,
+   "action_date": "2026-07-15",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUzNDMzODcxNmFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/T1j-uGlbl24cSPbgkoCCtc8uHvCsoslPo6Rsg_P_LGs"
+   }
+  },
+  {
+   "transaction_id": "MzUzMzg0ODEyOWFkaXF6a2N4",
+   "barcode": "XF6QMHCA",
+   "type": "LLCH01",
+   "date": "2026-07-20",
+   "category": "officers",
+   "subcategory": "change",
+   "description": "change-person-member-limited-liability-partnership-with-name-change-date",
+   "description_values": {
+    "change_date": "2026-07-02",
+    "officer_name": "Redacted Person"
+   },
+   "pages": 2,
+   "action_date": "2026-07-02",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUzMzg0ODEyOWFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZRQ8j8XSrW4xhj1Naz0OVkpF0tCMsxgrvYTSfLhcwo4"
+   }
+  },
+  {
+   "transaction_id": "MzUzMjIwMjcyMWFkaXF6a2N4",
+   "barcode": "XF67DNVO",
+   "type": "LLCH01",
+   "date": "2026-07-14",
+   "category": "officers",
+   "subcategory": "change",
+   "description": "change-person-member-limited-liability-partnership-with-name-change-date",
+   "description_values": {
+    "change_date": "2026-06-01",
+    "officer_name": "Redacted Person"
+   },
+   "pages": 2,
+   "action_date": "2026-06-01",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUzMjIwMjcyMWFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/4LtVgS_ndW76mP2ZmlRGR4oGC0TeLFPrfxwWi762f_o"
+   }
+  },
+  {
+   "transaction_id": "MzUzMTUxNDkzMGFkaXF6a2N4",
+   "barcode": "XF5Z6GHN",
+   "type": "LLCH01",
+   "date": "2026-07-11",
+   "category": "officers",
+   "subcategory": "change",
+   "description": "change-person-member-limited-liability-partnership-with-name-change-date",
+   "description_values": {
+    "change_date": "2019-09-07",
+    "officer_name": "Redacted Person"
+   },
+   "pages": 2,
+   "action_date": "2019-09-07",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUzMTUxNDkzMGFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/YWHceA8KMSaDemqzCH8kIUTY8NP6rbGkrC-ENGyrl_w"
+   }
+  },
+  {
+   "transaction_id": "MzUzMDMzOTU4N2FkaXF6a2N4",
+   "barcode": "XF5IH1J5",
+   "type": "LLTM01",
+   "date": "2026-07-03",
+   "category": "officers",
+   "subcategory": "termination",
+   "description": "termination-member-limited-liability-partnership-with-name-termination-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "termination_date": "2026-06-27"
+   },
+   "pages": 1,
+   "action_date": "2026-06-27",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUzMDMzOTU4N2FkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/vd2EFlQ2XOCyVjkhNGw-NQvgB4KbzhrCAsGqprgpuh4"
+   }
+  },
+  {
+   "transaction_id": "MzUyOTIyOTk4N2FkaXF6a2N4",
+   "barcode": "XF599AZE",
+   "type": "LLAP01",
+   "date": "2026-06-29",
+   "category": "officers",
+   "subcategory": "appointments",
+   "description": "appoint-person-member-limited-liability-partnership-with-appointment-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "appointment_date": "2026-06-29"
+   },
+   "pages": 2,
+   "action_date": "2026-06-29",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyOTIyOTk4N2FkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/bqLwa7averEA5wHiMnMjv0FbXwjdJ-t-oWwYdte-MeM"
+   }
+  },
+  {
+   "transaction_id": "MzUyNjQ0MDAyNWFkaXF6a2N4",
+   "barcode": "XF3YXH2O",
+   "type": "LLCH01",
+   "date": "2026-06-19",
+   "category": "officers",
+   "subcategory": "change",
+   "description": "change-person-member-limited-liability-partnership-with-name-change-date",
+   "description_values": {
+    "change_date": "2026-06-01",
+    "officer_name": "Redacted Person"
+   },
+   "pages": 2,
+   "action_date": "2026-06-01",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNjQ0MDAyNWFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/M5hoZQls8SzEnzHcb_zG5dyn0D9YShs0ThoGexK04x4"
+   }
+  },
+  {
+   "transaction_id": "MzUyNjUwMTgwNmFkaXF6a2N4",
+   "barcode": "XF3ZJC3D",
+   "type": "LLCH01",
+   "date": "2026-06-18",
+   "category": "officers",
+   "subcategory": "change",
+   "description": "change-person-member-limited-liability-partnership-with-name-change-date",
+   "description_values": {
+    "change_date": "2026-06-01",
+    "officer_name": "Redacted Person"
+   },
+   "pages": 2,
+   "action_date": "2026-06-01",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNjUwMTgwNmFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/D3StkHaiR1N1M2qsZfbvhxRHaA0jChiPkyvXy5qENTE"
+   }
+  },
+  {
+   "transaction_id": "MzUyNjQ3MjU4OWFkaXF6a2N4",
+   "barcode": "XF4E9PJK",
+   "type": "LLTM01",
+   "date": "2026-06-17",
+   "category": "officers",
+   "subcategory": "termination",
+   "description": "termination-member-limited-liability-partnership-with-name-termination-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "termination_date": "2026-06-05"
+   },
+   "pages": 1,
+   "action_date": "2026-06-05",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNjQ3MjU4OWFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/NUgdCWvmoTHkqGzjJmr5EbxKgnJDPy5JSTNietGDUDY"
+   }
+  },
+  {
+   "transaction_id": "MzUyNjQzODcyM2FkaXF6a2N4",
+   "barcode": "XF3YX5VL",
+   "type": "LLCH01",
+   "date": "2026-06-17",
+   "category": "officers",
+   "subcategory": "change",
+   "description": "change-person-member-limited-liability-partnership-with-name-change-date",
+   "description_values": {
+    "change_date": "2026-06-01",
+    "officer_name": "Redacted Person"
+   },
+   "pages": 2,
+   "action_date": "2026-06-01",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNjQzODcyM2FkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/fQFxjHgHumggX-KgaBHezAJZzVKZVm6E5GI7viaQels"
+   }
+  },
+  {
+   "transaction_id": "MzUyNjIxMDU3OWFkaXF6a2N4",
+   "barcode": "XF3YHVKQ",
+   "type": "LLAP01",
+   "date": "2026-06-10",
+   "category": "officers",
+   "subcategory": "appointments",
+   "description": "appoint-person-member-limited-liability-partnership-with-appointment-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "appointment_date": "2026-06-01"
+   },
+   "pages": 2,
+   "action_date": "2026-06-01",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNjIxMDU3OWFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/sNEoEh3hIDM4VtjjibRBN-quslWyg-ChvxNyJt-81LA"
+   }
+  },
+  {
+   "transaction_id": "MzUyNjAxMjgwMmFkaXF6a2N4",
+   "barcode": "XF3VK6BL",
+   "type": "LLTM01",
+   "date": "2026-06-09",
+   "category": "officers",
+   "subcategory": "termination",
+   "description": "termination-member-limited-liability-partnership-with-name-termination-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "termination_date": "2026-05-31"
+   },
+   "pages": 1,
+   "action_date": "2026-05-31",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNjAxMjgwMmFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/yPGcOBzG6cy1nKI0vfJ5arhFDMeRiJ7fcx1XXuH5sMU"
+   }
+  },
+  {
+   "transaction_id": "MzUyNjAwNDM4N2FkaXF6a2N4",
+   "barcode": "XF3VJ1CQ",
+   "type": "LLPSC08",
+   "date": "2026-06-09",
+   "category": "persons-with-significant-control",
+   "subcategory": "statements",
+   "description": "notification-of-a-person-with-significant-control-statement-limited-liability-partnership",
+   "pages": 2,
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNjAwNDM4N2FkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/Z78rUIhJNQd0BRtymNG1Luq5wVqHFf3uQ73m-hgdKJs"
+   }
+  },
+  {
+   "transaction_id": "MzUyNjAwMzMxOGFkaXF6a2N4",
+   "barcode": "XF3VIW5K",
+   "type": "LLPSC07",
+   "date": "2026-06-09",
+   "category": "persons-with-significant-control",
+   "subcategory": "termination",
+   "description": "cessation-of-a-person-with-significant-control-limited-liability-partnership",
+   "description_values": {
+    "psc_name": "Deloitte Nse Llp",
+    "cessation_date": "2026-06-01"
+   },
+   "pages": 1,
+   "action_date": "2026-06-01",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNjAwMzMxOGFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/Ou8vzo_N4TEPo7OvJz0rc90-NuAO0AGNYHdQA63xTQc"
+   }
+  },
+  {
+   "transaction_id": "MzUyNjAwMzMxOWFkaXF6a2N4",
+   "barcode": "XF3VIW68",
+   "type": "LLPSC07",
+   "date": "2026-06-09",
+   "category": "persons-with-significant-control",
+   "subcategory": "termination",
+   "description": "cessation-of-a-person-with-significant-control-limited-liability-partnership",
+   "description_values": {
+    "psc_name": "Deloitte Nse No3 Limited",
+    "cessation_date": "2026-06-01"
+   },
+   "pages": 1,
+   "action_date": "2026-06-01",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNjAwMzMxOWFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/gf4rOa4w846Ke5bdSG6gE-5OurFNVjPSSpU2AuAKTvg"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTk4NTU4NmFkaXF6a2N4",
+   "barcode": "XF3SWAGI",
+   "type": "LLTM01",
+   "date": "2026-06-09",
+   "category": "officers",
+   "subcategory": "termination",
+   "description": "termination-member-limited-liability-partnership-with-name-termination-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "termination_date": "2026-05-31"
+   },
+   "pages": 1,
+   "action_date": "2026-05-31",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTk4NTU4NmFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/EwgxcbOqpldngaJlqjoQ4BftS1sZ9iYRuM2dcJyu2Uw"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTkzODU5MGFkaXF6a2N4",
+   "barcode": "XF3SXKBM",
+   "type": "LLTM01",
+   "date": "2026-06-08",
+   "category": "officers",
+   "subcategory": "termination",
+   "description": "termination-member-limited-liability-partnership-with-name-termination-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "termination_date": "2026-05-31"
+   },
+   "pages": 1,
+   "action_date": "2026-05-31",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTkzODU5MGFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/tS1pIjG7Bq0apHotVDAXUZ6YuMVVJtCitVi3WdbY6AI"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTkzODQ0NmFkaXF6a2N4",
+   "barcode": "XF3SXJOQ",
+   "type": "LLTM01",
+   "date": "2026-06-08",
+   "category": "officers",
+   "subcategory": "termination",
+   "description": "termination-member-limited-liability-partnership-with-name-termination-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "termination_date": "2026-05-31"
+   },
+   "pages": 1,
+   "action_date": "2026-05-31",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTkzODQ0NmFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/lP2PIErk9ivCDQ-gvg2-HOBsZWZZ8M0cKXIcxYFIX1Q"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTkzNjMxNmFkaXF6a2N4",
+   "barcode": "XF3SX9OO",
+   "type": "LLTM01",
+   "date": "2026-06-08",
+   "category": "officers",
+   "subcategory": "termination",
+   "description": "termination-member-limited-liability-partnership-with-name-termination-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "termination_date": "2026-05-31"
+   },
+   "pages": 1,
+   "action_date": "2026-05-31",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTkzNjMxNmFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/eBb7zhigIh2C4rbacyQOlYXY06FUKkWJIC0-sfRhIiQ"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTkzNTU2MGFkaXF6a2N4",
+   "barcode": "XF3SX6ZU",
+   "type": "LLTM01",
+   "date": "2026-06-08",
+   "category": "officers",
+   "subcategory": "termination",
+   "description": "termination-member-limited-liability-partnership-with-name-termination-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "termination_date": "2026-05-31"
+   },
+   "pages": 1,
+   "action_date": "2026-05-31",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTkzNTU2MGFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/D3cq5iSHjSca85oFwKzE_JZFGjgUtwqzA8D1z7ekq8M"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTkzMzc1OGFkaXF6a2N4",
+   "barcode": "XF3SWZUR",
+   "type": "LLTM01",
+   "date": "2026-06-08",
+   "category": "officers",
+   "subcategory": "termination",
+   "description": "termination-member-limited-liability-partnership-with-name-termination-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "termination_date": "2026-05-31"
+   },
+   "pages": 1,
+   "action_date": "2026-05-31",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTkzMzc1OGFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/-Gp4JIHjJT0Le2dagYXAVcqnIurjxrFxBG83eVy0So8"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTkzMzYxOWFkaXF6a2N4",
+   "barcode": "XF3SWZ94",
+   "type": "LLTM01",
+   "date": "2026-06-08",
+   "category": "officers",
+   "subcategory": "termination",
+   "description": "termination-member-limited-liability-partnership-with-name-termination-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "termination_date": "2026-05-31"
+   },
+   "pages": 1,
+   "action_date": "2026-05-31",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTkzMzYxOWFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/W-2JG8TD1dBaU0inEgn6F1CZL--jKt6SoADC6XerDUE"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTkzMzQ1MGFkaXF6a2N4",
+   "barcode": "XF3SWYHC",
+   "type": "LLTM01",
+   "date": "2026-06-08",
+   "category": "officers",
+   "subcategory": "termination",
+   "description": "termination-member-limited-liability-partnership-with-name-termination-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "termination_date": "2026-05-31"
+   },
+   "pages": 1,
+   "action_date": "2026-05-31",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTkzMzQ1MGFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/utZ4sC_wH--cQB5Q7w0l-L_NAFPR_6CC7zLrmrhwSFI"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTkyODEyMGFkaXF6a2N4",
+   "barcode": "XF3SW6R4",
+   "type": "LLTM01",
+   "date": "2026-06-08",
+   "category": "officers",
+   "subcategory": "termination",
+   "description": "termination-member-limited-liability-partnership-with-name-termination-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "termination_date": "2026-05-31"
+   },
+   "pages": 1,
+   "action_date": "2026-05-31",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTkyODEyMGFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/4QfCK2g0l7ou4tmmNxp9bW8JKf9aAR_3eSUOX9xd0vA"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTkxMjAyN2FkaXF6a2N4",
+   "barcode": "XF3SU3Z7",
+   "type": "LLTM01",
+   "date": "2026-06-08",
+   "category": "officers",
+   "subcategory": "termination",
+   "description": "termination-member-limited-liability-partnership-with-name-termination-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "termination_date": "2026-05-31"
+   },
+   "pages": 1,
+   "action_date": "2026-05-31",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTkxMjAyN2FkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/5TtlNmMUG61Xe0oi9xD5ZuP3H4vLXVtkdbTKy_xEsAc"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTkxMTQ0MGFkaXF6a2N4",
+   "barcode": "XF3SU1B6",
+   "type": "LLTM01",
+   "date": "2026-06-08",
+   "category": "officers",
+   "subcategory": "termination",
+   "description": "termination-member-limited-liability-partnership-with-name-termination-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "termination_date": "2026-05-31"
+   },
+   "pages": 1,
+   "action_date": "2026-05-31",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTkxMTQ0MGFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/XcrLfVUWmBbhIWAILeSoptUDx_2aLcbFzc5852xqIQI"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTkxMDU3OGFkaXF6a2N4",
+   "barcode": "XF3STX6X",
+   "type": "LLTM01",
+   "date": "2026-06-08",
+   "category": "officers",
+   "subcategory": "termination",
+   "description": "termination-member-limited-liability-partnership-with-name-termination-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "termination_date": "2026-05-31"
+   },
+   "pages": 1,
+   "action_date": "2026-05-31",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTkxMDU3OGFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/TdbSaM271LaxlXtd_7tap4jDOYutxvg5mxul6QnATrk"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTkwOTgyNmFkaXF6a2N4",
+   "barcode": "XF3STTP7",
+   "type": "LLTM01",
+   "date": "2026-06-08",
+   "category": "officers",
+   "subcategory": "termination",
+   "description": "termination-member-limited-liability-partnership-with-name-termination-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "termination_date": "2026-05-31"
+   },
+   "pages": 1,
+   "action_date": "2026-05-31",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTkwOTgyNmFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/SpbGatcc_qDtT4f3KmUwZIXMafPR1jbcu5w47AToVGo"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTkwODk5NWFkaXF6a2N4",
+   "barcode": "XF3STPXS",
+   "type": "LLTM01",
+   "date": "2026-06-08",
+   "category": "officers",
+   "subcategory": "termination",
+   "description": "termination-member-limited-liability-partnership-with-name-termination-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "termination_date": "2026-05-31"
+   },
+   "pages": 1,
+   "action_date": "2026-05-31",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTkwODk5NWFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/cjciW839FDglMBo64tbji_rwmzFSwN8vpgM9Hllf4hs"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTkwMjkwNWFkaXF6a2N4",
+   "barcode": "XF3SSX4I",
+   "type": "LLTM01",
+   "date": "2026-06-08",
+   "category": "officers",
+   "subcategory": "termination",
+   "description": "termination-member-limited-liability-partnership-with-name-termination-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "termination_date": "2026-05-31"
+   },
+   "pages": 1,
+   "action_date": "2026-05-31",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTkwMjkwNWFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/Ceu81Ob4MAldZXYYFi0nFN2XMzqfQVdiWVPzeIHHW08"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTkwMjI4OWFkaXF6a2N4",
+   "barcode": "XF3SSTYX",
+   "type": "LLTM01",
+   "date": "2026-06-08",
+   "category": "officers",
+   "subcategory": "termination",
+   "description": "termination-member-limited-liability-partnership-with-name-termination-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "termination_date": "2026-05-31"
+   },
+   "pages": 1,
+   "action_date": "2026-05-31",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTkwMjI4OWFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/qRpTfHAeYo1B5S3MJ4VcMgoe_Ran06sV4odwGoaTn74"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTkwMDQzMGFkaXF6a2N4",
+   "barcode": "XF3SSLMZ",
+   "type": "LLTM01",
+   "date": "2026-06-08",
+   "category": "officers",
+   "subcategory": "termination",
+   "description": "termination-member-limited-liability-partnership-with-name-termination-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "termination_date": "2026-05-31"
+   },
+   "pages": 1,
+   "action_date": "2026-05-31",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTkwMDQzMGFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/R8lLFtbEHUzKqw3JYh6UzKaaVWc9XhcZz5Q4RLCP-4k"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTg5OTkyOGFkaXF6a2N4",
+   "barcode": "XF3SSJ5C",
+   "type": "LLTM01",
+   "date": "2026-06-08",
+   "category": "officers",
+   "subcategory": "termination",
+   "description": "termination-member-limited-liability-partnership-with-name-termination-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "termination_date": "2026-05-31"
+   },
+   "pages": 1,
+   "action_date": "2026-05-31",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTg5OTkyOGFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/03an9Nq1ezygFgjp2lGUBgkABS9Y4jzDiM0TdLjE6zw"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTg5OTQ2M2FkaXF6a2N4",
+   "barcode": "XF3SSH2M",
+   "type": "LLTM01",
+   "date": "2026-06-08",
+   "category": "officers",
+   "subcategory": "termination",
+   "description": "termination-member-limited-liability-partnership-with-name-termination-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "termination_date": "2026-05-31"
+   },
+   "pages": 1,
+   "action_date": "2026-05-31",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTg5OTQ2M2FkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/zb8zChy_ELFwiCuEgC7HpCOcXGjzOd8XonLnpzw8ZBs"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTg5ODY2MWFkaXF6a2N4",
+   "barcode": "XF3SSDIW",
+   "type": "LLTM01",
+   "date": "2026-06-08",
+   "category": "officers",
+   "subcategory": "termination",
+   "description": "termination-member-limited-liability-partnership-with-name-termination-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "termination_date": "2026-05-31"
+   },
+   "pages": 1,
+   "action_date": "2026-05-31",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTg5ODY2MWFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/z7HStuvLXI7aJSPm8KcMz-Kakoye6l1kw-NangMOl9Y"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTg5ODA5M2FkaXF6a2N4",
+   "barcode": "XF3SSAIV",
+   "type": "LLTM01",
+   "date": "2026-06-08",
+   "category": "officers",
+   "subcategory": "termination",
+   "description": "termination-member-limited-liability-partnership-with-name-termination-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "termination_date": "2026-05-31"
+   },
+   "pages": 1,
+   "action_date": "2026-05-31",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTg5ODA5M2FkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/A-o2_JETO2uihNZ9NdkviYEAZ2J1IgVkvs1ZWO1KrE8"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTg5NzEyM2FkaXF6a2N4",
+   "barcode": "XF3SS68P",
+   "type": "LLTM01",
+   "date": "2026-06-08",
+   "category": "officers",
+   "subcategory": "termination",
+   "description": "termination-member-limited-liability-partnership-with-name-termination-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "termination_date": "2026-05-31"
+   },
+   "pages": 1,
+   "action_date": "2026-05-31",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTg5NzEyM2FkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/XlS4xsmdyNHZZV6Ur6oZf2-M_owbY7OS4BzyjcOB0V4"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTg5NTkwNmFkaXF6a2N4",
+   "barcode": "XF3SS0S1",
+   "type": "LLTM01",
+   "date": "2026-06-08",
+   "category": "officers",
+   "subcategory": "termination",
+   "description": "termination-member-limited-liability-partnership-with-name-termination-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "termination_date": "2026-05-31"
+   },
+   "pages": 1,
+   "action_date": "2026-05-31",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTg5NTkwNmFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/cbeTYFjKgsBtZwk47n6tI7vBnreG92PyCL_RTWovQOM"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTg3ODk4MmFkaXF6a2N4",
+   "barcode": "XF3SPRNL",
+   "type": "LLTM01",
+   "date": "2026-06-08",
+   "category": "officers",
+   "subcategory": "termination",
+   "description": "termination-member-limited-liability-partnership-with-name-termination-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "termination_date": "2026-05-31"
+   },
+   "pages": 1,
+   "action_date": "2026-05-31",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTg3ODk4MmFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/TK9y0MGrLgzJChPUdRoIQ3_kWQXW2UJY-PscPO6lnok"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTg3NjE3NGFkaXF6a2N4",
+   "barcode": "XF3SPDQG",
+   "type": "LLTM01",
+   "date": "2026-06-08",
+   "category": "officers",
+   "subcategory": "termination",
+   "description": "termination-member-limited-liability-partnership-with-name-termination-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "termination_date": "2026-05-31"
+   },
+   "pages": 1,
+   "action_date": "2026-05-31",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTg3NjE3NGFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/GKNJoclMt9BMqC84u6gjgC8JDdjO5tvwRexEf-AR3hw"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTg3NDc1OGFkaXF6a2N4",
+   "barcode": "XF3SP6UR",
+   "type": "LLTM01",
+   "date": "2026-06-08",
+   "category": "officers",
+   "subcategory": "termination",
+   "description": "termination-member-limited-liability-partnership-with-name-termination-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "termination_date": "2026-05-31"
+   },
+   "pages": 1,
+   "action_date": "2026-05-31",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTg3NDc1OGFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/lX-tJkIVn91-5DWRJxrFjMdi4PjmKBi9UjbgcIMupBI"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTg3MzY4MGFkaXF6a2N4",
+   "barcode": "XF3SP1I2",
+   "type": "LLTM01",
+   "date": "2026-06-08",
+   "category": "officers",
+   "subcategory": "termination",
+   "description": "termination-member-limited-liability-partnership-with-name-termination-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "termination_date": "2026-05-31"
+   },
+   "pages": 1,
+   "action_date": "2026-05-31",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTg3MzY4MGFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/iOzM-mtk6GaSHI0DH8XAx8TYju_jV0l7d-z5vT_TAKo"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTg3MzA1MWFkaXF6a2N4",
+   "barcode": "XF3SOYQ0",
+   "type": "LLTM01",
+   "date": "2026-06-08",
+   "category": "officers",
+   "subcategory": "termination",
+   "description": "termination-member-limited-liability-partnership-with-name-termination-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "termination_date": "2026-05-31"
+   },
+   "pages": 1,
+   "action_date": "2026-05-31",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTg3MzA1MWFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/gbHWYRAf51xEHPNMY-YcEOhgNJzLZWY1EN1GkxRqiAQ"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTg3MjU4NmFkaXF6a2N4",
+   "barcode": "XF3SOWWX",
+   "type": "LLAP01",
+   "date": "2026-06-08",
+   "category": "officers",
+   "subcategory": "appointments",
+   "description": "appoint-person-member-limited-liability-partnership-with-appointment-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "appointment_date": "2026-06-01"
+   },
+   "pages": 2,
+   "action_date": "2026-06-01",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTg3MjU4NmFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/aHb-rC-w7D26fovWg0LzkQdgRRj_UA0844RY4uzK0aE"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTg3MjU4NGFkaXF6a2N4",
+   "barcode": "XF3SOWWH",
+   "type": "LLAP01",
+   "date": "2026-06-08",
+   "category": "officers",
+   "subcategory": "appointments",
+   "description": "appoint-person-member-limited-liability-partnership-with-appointment-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "appointment_date": "2026-06-01"
+   },
+   "pages": 2,
+   "action_date": "2026-06-01",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTg3MjU4NGFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/DZHs-B2GdN8vw8AtjabPgMJs8L6ZSVB4Rhuie2WynXg"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTg2OTAwNmFkaXF6a2N4",
+   "barcode": "XF3SOFVU",
+   "type": "LLAP01",
+   "date": "2026-06-08",
+   "category": "officers",
+   "subcategory": "appointments",
+   "description": "appoint-person-member-limited-liability-partnership-with-appointment-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "appointment_date": "2026-06-01"
+   },
+   "pages": 2,
+   "action_date": "2026-06-01",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTg2OTAwNmFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/J1Epl39LmzivNRuBOTYaGLjktht14J4oqm5QcgIzIOU"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTg2OTAwNGFkaXF6a2N4",
+   "barcode": "XF3SOFVE",
+   "type": "LLAP01",
+   "date": "2026-06-08",
+   "category": "officers",
+   "subcategory": "appointments",
+   "description": "appoint-person-member-limited-liability-partnership-with-appointment-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "appointment_date": "2026-06-01"
+   },
+   "pages": 2,
+   "action_date": "2026-06-01",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTg2OTAwNGFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/UgZ9KQIc3Dvj3j6LMf_0kQOQ_4B0i3NA0uroNmXTimM"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTg2OTAwMmFkaXF6a2N4",
+   "barcode": "XF3SOFV6",
+   "type": "LLAP01",
+   "date": "2026-06-08",
+   "category": "officers",
+   "subcategory": "appointments",
+   "description": "appoint-person-member-limited-liability-partnership-with-appointment-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "appointment_date": "2026-06-01"
+   },
+   "pages": 2,
+   "action_date": "2026-06-01",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTg2OTAwMmFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/AnqXBscBACROAUpMg6i6P34Hto438CZ2cUbGQnKcHds"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTg2OTAwNWFkaXF6a2N4",
+   "barcode": "XF3SOFVM",
+   "type": "LLAP01",
+   "date": "2026-06-08",
+   "category": "officers",
+   "subcategory": "appointments",
+   "description": "appoint-person-member-limited-liability-partnership-with-appointment-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "appointment_date": "2026-06-01"
+   },
+   "pages": 2,
+   "action_date": "2026-06-01",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTg2OTAwNWFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/ucGMLQe7FBnG4UQPVW133E6KtYSfd2XNH45wP7zzuOw"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTg2NzE4MmFkaXF6a2N4",
+   "barcode": "XF3SO70H",
+   "type": "LLTM01",
+   "date": "2026-06-08",
+   "category": "officers",
+   "subcategory": "termination",
+   "description": "termination-member-limited-liability-partnership-with-name-termination-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "termination_date": "2026-05-31"
+   },
+   "pages": 1,
+   "action_date": "2026-05-31",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTg2NzE4MmFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/h3S5gEn6ZQLCbnDRgcSGWuqhhkpmDLIJl85HHM_IR_4"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTg2NjI3NWFkaXF6a2N4",
+   "barcode": "XF3SO2O3",
+   "type": "LLTM01",
+   "date": "2026-06-08",
+   "category": "officers",
+   "subcategory": "termination",
+   "description": "termination-member-limited-liability-partnership-with-name-termination-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "termination_date": "2026-05-31"
+   },
+   "pages": 1,
+   "action_date": "2026-05-31",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTg2NjI3NWFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/THLzgxkvqxd0QE1W7P-ADlcupGSZxNkZmrppEafhRL4"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTg2NTA2OWFkaXF6a2N4",
+   "barcode": "XF3SNXT6",
+   "type": "LLTM01",
+   "date": "2026-06-08",
+   "category": "officers",
+   "subcategory": "termination",
+   "description": "termination-member-limited-liability-partnership-with-name-termination-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "termination_date": "2026-05-31"
+   },
+   "pages": 1,
+   "action_date": "2026-05-31",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTg2NTA2OWFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/gNxFai3vbngrW1dv4fn95UeAzZQkumEFxtW_alfK3ak"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTg2Mjg4OWFkaXF6a2N4",
+   "barcode": "XF3SNRRG",
+   "type": "LLTM01",
+   "date": "2026-06-08",
+   "category": "officers",
+   "subcategory": "termination",
+   "description": "termination-member-limited-liability-partnership-with-name-termination-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "termination_date": "2026-05-31"
+   },
+   "pages": 1,
+   "action_date": "2026-05-31",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTg2Mjg4OWFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/siUj1AMF48f5qmtyiDB1kW31ZX8A9MCTe-9rf1hYFuc"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTg2MTg5NmFkaXF6a2N4",
+   "barcode": "XF3SNN54",
+   "type": "LLAP01",
+   "date": "2026-06-08",
+   "category": "officers",
+   "subcategory": "appointments",
+   "description": "appoint-person-member-limited-liability-partnership-with-appointment-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "appointment_date": "2026-06-01"
+   },
+   "pages": 2,
+   "action_date": "2026-06-01",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTg2MTg5NmFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/DViLx2punhN315yqAeqrok3vY9keW0VrnMiBa_QJZ-c"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTg2MTg5NGFkaXF6a2N4",
+   "barcode": "XF3SNN4G",
+   "type": "LLAP01",
+   "date": "2026-06-08",
+   "category": "officers",
+   "subcategory": "appointments",
+   "description": "appoint-person-member-limited-liability-partnership-with-appointment-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "appointment_date": "2026-06-01"
+   },
+   "pages": 2,
+   "action_date": "2026-06-01",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTg2MTg5NGFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/Nrw9YeQ3IfiQCq-oHhxFyRlb8KVulRVxZX2Nomndb4k"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTg2MTg5N2FkaXF6a2N4",
+   "barcode": "XF3SNN5C",
+   "type": "LLAP01",
+   "date": "2026-06-08",
+   "category": "officers",
+   "subcategory": "appointments",
+   "description": "appoint-person-member-limited-liability-partnership-with-appointment-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "appointment_date": "2026-06-01"
+   },
+   "pages": 2,
+   "action_date": "2026-06-01",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTg2MTg5N2FkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/TAQBLXdW7WmtF9ThzSHMDofXbSO5C2Tn2Aj_xnXFzpI"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTg1MDUyMmFkaXF6a2N4",
+   "barcode": "AF31FZ3S",
+   "type": "RP04LLAP01",
+   "date": "2026-06-08",
+   "category": "officers",
+   "subcategory": "document-replacement",
+   "description": "second-filing-of-member-appointment-with-name",
+   "description_values": {
+    "officer_name": "Redacted Person"
+   },
+   "pages": 5,
+   "paper_filed": true,
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTg1MDUyMmFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/rmDMKzPCdwfK1Q0K0u04hqKX5Dc4jU2vxdJ7-asLjys"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTc5MjI5NmFkaXF6a2N4",
+   "barcode": "XF3Q1LMG",
+   "type": "LLTM01",
+   "date": "2026-06-07",
+   "category": "officers",
+   "subcategory": "termination",
+   "description": "termination-member-limited-liability-partnership-with-name-termination-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "termination_date": "2026-05-31"
+   },
+   "pages": 1,
+   "action_date": "2026-05-31",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTc5MjI5NmFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/0jOMpUMoP5H8AMOTNh_tKR00h_LJwfCLxS4E5MYOlSo"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTc5MjA2M2FkaXF6a2N4",
+   "barcode": "XF3Q1KOW",
+   "type": "LLTM01",
+   "date": "2026-06-07",
+   "category": "officers",
+   "subcategory": "termination",
+   "description": "termination-member-limited-liability-partnership-with-name-termination-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "termination_date": "2026-05-31"
+   },
+   "pages": 1,
+   "action_date": "2026-05-31",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTc5MjA2M2FkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/OHRux2900UbB-Gh4hzlHsYSSO3yR1gE4V3fD7i-hxz8"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTc5MTk1N2FkaXF6a2N4",
+   "barcode": "XF3Q1K8J",
+   "type": "LLTM01",
+   "date": "2026-06-07",
+   "category": "officers",
+   "subcategory": "termination",
+   "description": "termination-member-limited-liability-partnership-with-name-termination-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "termination_date": "2026-05-31"
+   },
+   "pages": 1,
+   "action_date": "2026-05-31",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTc5MTk1N2FkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/IYV9Bh6n9avBJTu495QcKWARGrXKTAalheonhWD8il0"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTU5OTU2OGFkaXF6a2N4",
+   "barcode": "XF3KXL9F",
+   "type": "LLAP01",
+   "date": "2026-06-07",
+   "category": "officers",
+   "subcategory": "appointments",
+   "description": "appoint-person-member-limited-liability-partnership-with-appointment-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "appointment_date": "2026-06-01"
+   },
+   "pages": 2,
+   "action_date": "2026-06-01",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTU5OTU2OGFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/j34uytOO34GBzKebED61CE3Kvydnr_hTowTfGMQsxPc"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTU5OTg4MWFkaXF6a2N4",
+   "barcode": "XF3KXMQB",
+   "type": "LLAP01",
+   "date": "2026-06-07",
+   "category": "officers",
+   "subcategory": "appointments",
+   "description": "appoint-person-member-limited-liability-partnership-with-appointment-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "appointment_date": "2026-06-01"
+   },
+   "pages": 2,
+   "action_date": "2026-06-01",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTU5OTg4MWFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/FiGR00YVoq9yLvr0IoQlF67UuX4mXCqq5Nzqn6ba0UI"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTU4ODA0NWFkaXF6a2N4",
+   "barcode": "XF3KW2KO",
+   "type": "LLAP01",
+   "date": "2026-06-07",
+   "category": "officers",
+   "subcategory": "appointments",
+   "description": "appoint-person-member-limited-liability-partnership-with-appointment-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "appointment_date": "2026-06-01"
+   },
+   "pages": 2,
+   "action_date": "2026-06-01",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTU4ODA0NWFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/gnn0MqxAD4erPlJXlGY-62KomKP41oNikdpVPnWVnFc"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTU4NDIwOGFkaXF6a2N4",
+   "barcode": "XF3KVK1V",
+   "type": "LLAP01",
+   "date": "2026-06-07",
+   "category": "officers",
+   "subcategory": "appointments",
+   "description": "appoint-person-member-limited-liability-partnership-with-appointment-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "appointment_date": "2026-06-01"
+   },
+   "pages": 2,
+   "action_date": "2026-06-01",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTU4NDIwOGFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/RbcnOXb7te0QStOG-fX7MbuAA_534EXpauoCYQklWkk"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTU3MjM5NGFkaXF6a2N4",
+   "barcode": "XF3KU06J",
+   "type": "LLAP01",
+   "date": "2026-06-07",
+   "category": "officers",
+   "subcategory": "appointments",
+   "description": "appoint-person-member-limited-liability-partnership-with-appointment-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "appointment_date": "2026-06-01"
+   },
+   "pages": 2,
+   "action_date": "2026-06-01",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTU3MjM5NGFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/AgQQvCuxQ3Uw90dGngRKw05r8KTr6AONubjgeorbzI8"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTQxMjk5OGFkaXF6a2N4",
+   "barcode": "XF3I4ZCI",
+   "type": "LLAP01",
+   "date": "2026-06-06",
+   "category": "officers",
+   "subcategory": "appointments",
+   "description": "appoint-person-member-limited-liability-partnership-with-appointment-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "appointment_date": "2026-06-01"
+   },
+   "pages": 2,
+   "action_date": "2026-06-01",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTQxMjk5OGFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/vL_MKFWI8fpamPt1cTVpWgg4QmCQizUZ4sfOOw9Oukk"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTYwMzE3MGFkaXF6a2N4",
+   "barcode": "XF3KY1U3",
+   "type": "LLAP01",
+   "date": "2026-06-05",
+   "category": "officers",
+   "subcategory": "appointments",
+   "description": "appoint-person-member-limited-liability-partnership-with-appointment-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "appointment_date": "2026-06-01"
+   },
+   "pages": 2,
+   "action_date": "2026-06-01",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTYwMzE3MGFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/GkDyMY5btPLWeNoqkwCcvr7_enzB17u7Si--f8CE3o8"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTYwMzE2OGFkaXF6a2N4",
+   "barcode": "XF3KY1TN",
+   "type": "LLAP01",
+   "date": "2026-06-05",
+   "category": "officers",
+   "subcategory": "appointments",
+   "description": "appoint-person-member-limited-liability-partnership-with-appointment-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "appointment_date": "2026-06-01"
+   },
+   "pages": 2,
+   "action_date": "2026-06-01",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTYwMzE2OGFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/h-S1ntaQTVfG0Ewi6OFb81XhMwwaM7_i4y4yJoCn6GE"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTYwMzE3NGFkaXF6a2N4",
+   "barcode": "XF3KY1UZ",
+   "type": "LLAP01",
+   "date": "2026-06-05",
+   "category": "officers",
+   "subcategory": "appointments",
+   "description": "appoint-person-member-limited-liability-partnership-with-appointment-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "appointment_date": "2026-06-01"
+   },
+   "pages": 2,
+   "action_date": "2026-06-01",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTYwMzE3NGFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/Msl6DeY1-AU4d3AefJCoawDp9bg1aq-j29a4LaKUVaY"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTYwMzE3M2FkaXF6a2N4",
+   "barcode": "XF3KY1UR",
+   "type": "LLAP01",
+   "date": "2026-06-05",
+   "category": "officers",
+   "subcategory": "appointments",
+   "description": "appoint-person-member-limited-liability-partnership-with-appointment-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "appointment_date": "2026-06-01"
+   },
+   "pages": 2,
+   "action_date": "2026-06-01",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTYwMzE3M2FkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/6rYTICo5Tp4KoNYM8SWtvFCOSXrJzPP7OsTcD3XhaE0"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTYwMzE3MmFkaXF6a2N4",
+   "barcode": "XF3KY1UJ",
+   "type": "LLAP01",
+   "date": "2026-06-05",
+   "category": "officers",
+   "subcategory": "appointments",
+   "description": "appoint-person-member-limited-liability-partnership-with-appointment-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "appointment_date": "2026-06-01"
+   },
+   "pages": 2,
+   "action_date": "2026-06-01",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTYwMzE3MmFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/rp5AZHgIgxx-6RY-f-mK3Vl1yRJj_shxBVHNKsWBpdM"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTYwMzE3MWFkaXF6a2N4",
+   "barcode": "XF3KY1UB",
+   "type": "LLAP01",
+   "date": "2026-06-05",
+   "category": "officers",
+   "subcategory": "appointments",
+   "description": "appoint-person-member-limited-liability-partnership-with-appointment-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "appointment_date": "2026-06-01"
+   },
+   "pages": 2,
+   "action_date": "2026-06-01",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTYwMzE3MWFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/MwVx7d7DZp6F6-gYpabGRwBZ08pq9YogoPoVxuz8yws"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTYwMzE2OWFkaXF6a2N4",
+   "barcode": "XF3KY1TV",
+   "type": "LLAP01",
+   "date": "2026-06-05",
+   "category": "officers",
+   "subcategory": "appointments",
+   "description": "appoint-person-member-limited-liability-partnership-with-appointment-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "appointment_date": "2026-06-01"
+   },
+   "pages": 2,
+   "action_date": "2026-06-01",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTYwMzE2OWFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/WV2R_ILIgnztzN-QbDu17QVVcw94hXWEJ8XOSSEluEE"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTYwMjc1M2FkaXF6a2N4",
+   "barcode": "XF3KXZYI",
+   "type": "LLAP01",
+   "date": "2026-06-05",
+   "category": "officers",
+   "subcategory": "appointments",
+   "description": "appoint-person-member-limited-liability-partnership-with-appointment-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "appointment_date": "2026-06-01"
+   },
+   "pages": 2,
+   "action_date": "2026-06-01",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTYwMjc1M2FkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/nNS25yrZwRI0lPQWtePlLQseMMJ2sWeXatz7xBwoFTk"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTYwMjc1MmFkaXF6a2N4",
+   "barcode": "XF3KXZYA",
+   "type": "LLAP01",
+   "date": "2026-06-05",
+   "category": "officers",
+   "subcategory": "appointments",
+   "description": "appoint-person-member-limited-liability-partnership-with-appointment-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "appointment_date": "2026-06-01"
+   },
+   "pages": 2,
+   "action_date": "2026-06-01",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTYwMjc1MmFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/O8kCEZubqPsAlgzR-VrV48KYSz8qPjEyFxOHS4pIRrg"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTYwMTgzMmFkaXF6a2N4",
+   "barcode": "XF3KXVOW",
+   "type": "LLAP01",
+   "date": "2026-06-05",
+   "category": "officers",
+   "subcategory": "appointments",
+   "description": "appoint-person-member-limited-liability-partnership-with-appointment-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "appointment_date": "2026-06-01"
+   },
+   "pages": 2,
+   "action_date": "2026-06-01",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTYwMTgzMmFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/wUE2W4fFcQXrtuofKbvyUhrycnY54fEahJUpkOaEtPQ"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTYwMTU1N2FkaXF6a2N4",
+   "barcode": "XF3KXUHU",
+   "type": "LLAP01",
+   "date": "2026-06-05",
+   "category": "officers",
+   "subcategory": "appointments",
+   "description": "appoint-person-member-limited-liability-partnership-with-appointment-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "appointment_date": "2026-06-01"
+   },
+   "pages": 2,
+   "action_date": "2026-06-01",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTYwMTU1N2FkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZPlR1ZXX9jYh6Ggf4N8ADwFmSb-FhXRdM5YiVCfXG0U"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTYwMTUxNWFkaXF6a2N4",
+   "barcode": "XF3KXUEA",
+   "type": "LLAP01",
+   "date": "2026-06-05",
+   "category": "officers",
+   "subcategory": "appointments",
+   "description": "appoint-person-member-limited-liability-partnership-with-appointment-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "appointment_date": "2026-06-01"
+   },
+   "pages": 2,
+   "action_date": "2026-06-01",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTYwMTUxNWFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/sAs0eJG8uxWU3MewGssnpjHloKkH9JJFzfBY7maTuyw"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTYwMTUxNmFkaXF6a2N4",
+   "barcode": "XF3KXUE2",
+   "type": "LLAP01",
+   "date": "2026-06-05",
+   "category": "officers",
+   "subcategory": "appointments",
+   "description": "appoint-person-member-limited-liability-partnership-with-appointment-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "appointment_date": "2026-06-01"
+   },
+   "pages": 2,
+   "action_date": "2026-06-01",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTYwMTUxNmFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/5sRk0xxl2Y7tL0UCSYS92PLO78BVyu3VVHJRHF-WnnA"
+   }
+  },
+  {
+   "transaction_id": "MzUyNTYwMTUxNGFkaXF6a2N4",
+   "barcode": "XF3KXUDU",
+   "type": "LLAP01",
+   "date": "2026-06-05",
+   "category": "officers",
+   "subcategory": "appointments",
+   "description": "appoint-person-member-limited-liability-partnership-with-appointment-date",
+   "description_values": {
+    "officer_name": "Redacted Person",
+    "appointment_date": "2026-06-01"
+   },
+   "pages": 2,
+   "action_date": "2026-06-01",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzUyNTYwMTUxNGFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/1HbSD3lGtGuNBZhOvdiLIvJA1t_DxFWtqB--ma1PxOY"
+   }
+  }
+ ],
+ "items_per_page": 100,
+ "start_index": 0,
+ "total_count": 4606
+}

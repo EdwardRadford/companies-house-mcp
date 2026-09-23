@@ -1,0 +1,3485 @@
+{
+ "active_count": 857,
+ "etag": "d89ccec9fd07f2f9ae4991d22a107e580a208c05",
+ "items": [
+  {
+   "etag": "d89ccec9fd07f2f9ae4991d22a107e580a208c05",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-09-14",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 1",
+   "officer_role": "llp-member",
+   "person_number": "352541800001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-09-18",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-07-02",
+    "preferred_name": "Rebecca Hill"
+   }
+  },
+  {
+   "etag": "284e7fe5f108badc47792160b0c6f340674a6757",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-09-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "Australia",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 2",
+   "officer_role": "llp-member",
+   "person_number": "351991160001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-09-02",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-06-25",
+    "preferred_name": "Neil Robert Gray"
+   }
+  },
+  {
+   "etag": "c8316a4d925795bd792673c41c417e56acf343ec",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-09-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 3",
+   "officer_role": "llp-member",
+   "person_number": "351991150001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-09-02",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-06-26",
+    "preferred_name": "Clair Delyth Ann Aspinall"
+   }
+  },
+  {
+   "etag": "df7adcabf2e98fd6925187fd779f9e2de3d901f4",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-09-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "Ireland",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 4",
+   "officer_role": "llp-designated-member",
+   "person_number": "247399500001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-09-02",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-06-26",
+    "preferred_name": "Martin Reilly"
+   }
+  },
+  {
+   "etag": "08761da0efdbdfcfeeb5302f6b6f8cd98b7cf731",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-08-03",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 5",
+   "officer_role": "llp-member",
+   "person_number": "351127930001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-08-04",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-07-02",
+    "preferred_name": "Sonia Rai"
+   }
+  },
+  {
+   "etag": "a02f4afc7ef5d61a567dcf2df7c2c8d4f9652618",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-29",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 6",
+   "officer_role": "llp-member",
+   "person_number": "349935790001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-29",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-06-01",
+    "preferred_name": "Erika Gillian Campbell"
+   }
+  },
+  {
+   "etag": "60dd8d485667938101e41b08de219a109f565da0",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 7",
+   "officer_role": "llp-member",
+   "person_number": "273626880002",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-13",
+    "preferred_name": "Benjamin Jon Hacking"
+   }
+  },
+  {
+   "etag": "9b032a804c5a496c5096fbdb8a5232cb73ac79f1",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 8",
+   "officer_role": "llp-member",
+   "person_number": "321405300001",
+   "identity_verification_details": {
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-07"
+   }
+  },
+  {
+   "etag": "c75d8e6305eb62a9d4cdf7cf2c3b1854167f6346",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 9",
+   "officer_role": "llp-member",
+   "person_number": "349273320001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-08",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-08",
+    "preferred_name": "Benjamin Steven Newton"
+   }
+  },
+  {
+   "etag": "302c6357f8ab48d7b2630944661dec587abdcbfb",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 10",
+   "officer_role": "llp-member",
+   "person_number": "349201450001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-04",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-16",
+    "preferred_name": "Sean Clamp"
+   }
+  },
+  {
+   "etag": "2c680da1cb1423be1ffdbb6424f85d1127402457",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 11",
+   "officer_role": "llp-member",
+   "person_number": "349236390001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-08",
+    "preferred_name": "Jackie Lyons"
+   }
+  },
+  {
+   "etag": "af05bfe4fd6fdcc17eeb2faae9b06e063799ce08",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "Switzerland",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 12",
+   "officer_role": "llp-member",
+   "person_number": "349244650001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-03-24",
+    "preferred_name": "Philipp Mayrl"
+   }
+  },
+  {
+   "etag": "21c8caad8d64f841346abedb91992ff3cb50f421",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 13",
+   "officer_role": "llp-member",
+   "person_number": "349227460001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-20",
+    "preferred_name": "Charlie McMillan"
+   }
+  },
+  {
+   "etag": "59f0564a1efd562fa8fd160fa758e7bc419223b7",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 14",
+   "officer_role": "llp-member",
+   "person_number": "349245750001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-16",
+    "preferred_name": "James Gregory Sam Elton"
+   }
+  },
+  {
+   "etag": "1de6fb8a3b10fa5a4241c2d94111075256dc0f9c",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 15",
+   "officer_role": "llp-member",
+   "person_number": "349230560001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-20",
+    "preferred_name": "Stuart Thomson MacPherson"
+   }
+  },
+  {
+   "etag": "21c45b7312e1269d9d292831488526c3fa2a2227",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 16",
+   "officer_role": "llp-member",
+   "person_number": "349240240001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-08",
+    "preferred_name": "Thomas James Penley"
+   }
+  },
+  {
+   "etag": "eccecb68d1b75f47c7b7e2870f57bb36c9824b29",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "Switzerland",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 17",
+   "officer_role": "llp-member",
+   "person_number": "349256330001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-07",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-30",
+    "preferred_name": "Mongha Cedric Nabe"
+   }
+  },
+  {
+   "etag": "fc2763f36c9be6deb373a49c483ccf90736b188e",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 18",
+   "officer_role": "llp-member",
+   "person_number": "349245400001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-16",
+    "preferred_name": "Richard Andrew Christopher Edwards"
+   }
+  },
+  {
+   "etag": "e285cd6387e88fef617f74dbdbdf628ab926ab20",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 19",
+   "officer_role": "llp-member",
+   "person_number": "114580430002",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-04",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-16",
+    "preferred_name": "Andrew Joseph Cowen"
+   }
+  },
+  {
+   "etag": "b6fa1340c5558b38ef5eabe2c3356347901f6ed5",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 20",
+   "officer_role": "llp-member",
+   "person_number": "349245460001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-16",
+    "preferred_name": "Nicholas John Davis"
+   }
+  },
+  {
+   "etag": "51dbd5732e5c23791b62a5da8fb5df8ffa375888",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 21",
+   "officer_role": "llp-member",
+   "person_number": "349385580001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-10",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-08",
+    "preferred_name": "Robert Paul Murray"
+   }
+  },
+  {
+   "etag": "d4f09b31b487084efac10e6d43b05bfee86942d2",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 22",
+   "officer_role": "llp-member",
+   "person_number": "349226150001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-03-20",
+    "preferred_name": "Jonathan Lloyd Gooding"
+   }
+  },
+  {
+   "etag": "f68264395958f25b7b12d4be60569752efb329d7",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "Switzerland",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 23",
+   "officer_role": "llp-member",
+   "person_number": "349240680001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-03-31",
+    "preferred_name": "Lay Boon Tan"
+   }
+  },
+  {
+   "etag": "595e3bcc1b2a080bb0c7510507d43a7ad643782a",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 24",
+   "officer_role": "llp-member",
+   "person_number": "349273330001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-08",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-09",
+    "preferred_name": "Gemma Anne Marshall"
+   }
+  },
+  {
+   "etag": "f01b1e111d04058389da9f74ca9a711902f7fb80",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 25",
+   "officer_role": "llp-member",
+   "person_number": "349249480001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-06",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-24",
+    "preferred_name": "Michael Cobb"
+   }
+  },
+  {
+   "etag": "00404c646b03eccba556ea0cc2d2402d6fc99c8f",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 26",
+   "officer_role": "llp-member",
+   "person_number": "349232160001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-01",
+    "preferred_name": "Anthony Stephen Massey"
+   }
+  },
+  {
+   "etag": "d4c7bb35e84872f1673313020d7db40dd9f61948",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 27",
+   "officer_role": "llp-member",
+   "person_number": "349246600001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-09",
+    "preferred_name": "Sarah Lord"
+   }
+  },
+  {
+   "etag": "36aa144e77cb312f4301ef1cbcc954327ac28346",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 28",
+   "officer_role": "llp-member",
+   "person_number": "349227480001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-10",
+    "preferred_name": "Stephen James Johnson"
+   }
+  },
+  {
+   "etag": "29e1170f7fd67b7bfebdf0deada8ef519554fd40",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 29",
+   "officer_role": "llp-member",
+   "person_number": "315439690001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-05-05",
+    "preferred_name": "Leon James Duffield"
+   }
+  },
+  {
+   "etag": "3107a27dc76de15734b5436e81adbb687384b247",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 30",
+   "officer_role": "llp-member",
+   "person_number": "349245060001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-24",
+    "preferred_name": "Paul James Hynes"
+   }
+  },
+  {
+   "etag": "a2508d7eb1a7c557668df28b34fa69c4c87eefe3",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 31",
+   "officer_role": "llp-member",
+   "person_number": "349201550001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-04",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-16",
+    "preferred_name": "Louise Elizabeth Anderson Cooper"
+   }
+  },
+  {
+   "etag": "2a3f94a47af311e1fdc6c66c83ccb9f816802bed",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 32",
+   "officer_role": "llp-member",
+   "person_number": "349240250001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-20",
+    "preferred_name": "David Thomas Roper"
+   }
+  },
+  {
+   "etag": "82f5431bc4a9fd1f2a9a2415c6ad0cbb82e8f0d9",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 33",
+   "officer_role": "llp-member",
+   "person_number": "349244930001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-14",
+    "preferred_name": "Nicholas Graham"
+   }
+  },
+  {
+   "etag": "0be5ea588e17443a7a10b57b5a7578baca7b5acf",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 34",
+   "officer_role": "llp-member",
+   "person_number": "218405170001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-20",
+    "preferred_name": "Paul Keith Mackman"
+   }
+  },
+  {
+   "etag": "5873188223223dac6b8d57f78ac8c778d117b428",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 35",
+   "officer_role": "llp-member",
+   "person_number": "349201670001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-04",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-22",
+    "preferred_name": "Liam Arthur Davies"
+   }
+  },
+  {
+   "etag": "8f033f5e6b539fbfa1d15d1e3a4a73d515b6b009",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 36",
+   "officer_role": "llp-member",
+   "person_number": "349245370001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-08",
+    "preferred_name": "Adam Jonathan Sheffield"
+   }
+  },
+  {
+   "etag": "54ace597673b3d7470ce2abed402dfd5a4e1b804",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 37",
+   "officer_role": "llp-member",
+   "person_number": "349244940002",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-20",
+    "preferred_name": "Christopher Peter Jamieson"
+   }
+  },
+  {
+   "etag": "30428d049485fdbc3369932838625f98d8518c23",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 38",
+   "officer_role": "llp-member",
+   "person_number": "349245390001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-13",
+    "preferred_name": "Matthew Thomas Hartley"
+   }
+  },
+  {
+   "etag": "5cf9cdbae1e40444a3af7f871e6bdeb7267ff4b0",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 39",
+   "officer_role": "llp-member",
+   "person_number": "349277840001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-08",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-03-06",
+    "preferred_name": "David Lester Carter"
+   }
+  },
+  {
+   "etag": "422873293166ed6818a6046642013940f1097ea2",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "Switzerland",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 40",
+   "officer_role": "llp-member",
+   "person_number": "349244640001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-30",
+    "preferred_name": "Igor Heinzer"
+   }
+  },
+  {
+   "etag": "4e64021c1f17e88aeef22a01097e1541370d2067",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 41",
+   "officer_role": "llp-member",
+   "person_number": "349201940001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-04",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-27",
+    "preferred_name": "Gina Dowding"
+   }
+  },
+  {
+   "etag": "6342a08184ed76fa9f2709dc4a5d8bc6ba9ada17",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 42",
+   "officer_role": "llp-member",
+   "person_number": "349232170001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-09",
+    "preferred_name": "Andrew James Holt McKee"
+   }
+  },
+  {
+   "etag": "d034ac6eca53943422609171b63903ba7e3cfbea",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 43",
+   "officer_role": "llp-member",
+   "person_number": "349211500001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-16",
+    "preferred_name": "Richard Paul Ellingham"
+   }
+  },
+  {
+   "etag": "c05ff65c1df71b2332111216b9bca24dbb17c7d1",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 44",
+   "officer_role": "llp-member",
+   "person_number": "349246610001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-08",
+    "preferred_name": "Simon Skelly"
+   }
+  },
+  {
+   "etag": "78a528a3d8a76e03dc447485df01bd56b37ffe1d",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "Switzerland",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 45",
+   "officer_role": "llp-member",
+   "person_number": "349200970001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-04",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-05-05",
+    "preferred_name": "Rolf Bruegger"
+   }
+  },
+  {
+   "etag": "60b0561b74d486205a3a3e49e9f48ebeb4d118a9",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 46",
+   "officer_role": "llp-member",
+   "person_number": "349232150001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-24",
+    "preferred_name": "Rosemin Jane Manji"
+   }
+  },
+  {
+   "etag": "f3389b6fcef7db541b8b0d3111d2c88374993ff2",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 47",
+   "officer_role": "llp-member",
+   "person_number": "349246570001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-07",
+    "preferred_name": "Hari Sothinathan"
+   }
+  },
+  {
+   "etag": "129e746e21c7928f21e02f0a10c7c5ec40273dc1",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 48",
+   "officer_role": "llp-member",
+   "person_number": "349275770001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-08",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-07",
+    "preferred_name": "Kiran Kaur Thaliwal"
+   }
+  },
+  {
+   "etag": "53c45cb424e34e3d8b9ca74a83be30b100d14c86",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 49",
+   "officer_role": "llp-member",
+   "person_number": "349227580001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-13",
+    "preferred_name": "Eytan Aaron Hallside"
+   }
+  },
+  {
+   "etag": "42b491f1c27d2cbcd98515cda69862a8072fbf02",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 50",
+   "officer_role": "llp-member",
+   "person_number": "349229580001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-10",
+    "preferred_name": "Annie Lloyd"
+   }
+  },
+  {
+   "etag": "d00543bf19894574e57f315758564026e657b824",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 51",
+   "officer_role": "llp-member",
+   "person_number": "349256390001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-07",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-10",
+    "preferred_name": "Traian Ivanov Ivanov"
+   }
+  },
+  {
+   "etag": "51e415159ef327f18df24fe9dff332f35a1a2cd6",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 52",
+   "officer_role": "llp-member",
+   "person_number": "349245830001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-07",
+    "preferred_name": "Leo Alexander Thurtle"
+   }
+  },
+  {
+   "etag": "ca7ab1aca82642436bd51c78ce866bab9f678849",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 53",
+   "officer_role": "llp-member",
+   "person_number": "349229570001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-24",
+    "preferred_name": "Peter Kunorubwe"
+   }
+  },
+  {
+   "etag": "a664a3b1f346c258af53e90b85c40cf6e6334761",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "Switzerland",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 54",
+   "officer_role": "llp-member",
+   "person_number": "349244660001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-03-24",
+    "preferred_name": "Geoffrey Lester Leys"
+   }
+  },
+  {
+   "etag": "dd7de26f3ccb7b55f7f3d3368718937c02e9c8c9",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "England",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 55",
+   "officer_role": "llp-member",
+   "person_number": "349275890001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-08",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-28",
+    "preferred_name": "Neha Dikshit Kulkarni"
+   }
+  },
+  {
+   "etag": "e46a1a397d9c4865a1b172f8e861a04cbc56fda6",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 56",
+   "officer_role": "llp-member",
+   "person_number": "349240670001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-09",
+    "preferred_name": "Adrian Louis Leslie Winston Spragg"
+   }
+  },
+  {
+   "etag": "4b8e01f644552dd97750349369271dc5576d6297",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 57",
+   "officer_role": "llp-member",
+   "person_number": "349273270001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-08",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-09",
+    "preferred_name": "Daniel Hart Mayer"
+   }
+  },
+  {
+   "etag": "267624ab90fb99cac6ce11d3771f4e13611d8686",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 58",
+   "officer_role": "llp-member",
+   "person_number": "349227450001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-20",
+    "preferred_name": "Louise Anne Harvey"
+   }
+  },
+  {
+   "etag": "c9db4bad9f22b1acf9eadcf6c2e270065ecd156e",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 59",
+   "officer_role": "llp-member",
+   "person_number": "349246560001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-27",
+    "preferred_name": "Emily Morlan Down"
+   }
+  },
+  {
+   "etag": "2b7e45da6536ee3b5c6135ff7f06b90fe5384a17",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 60",
+   "officer_role": "llp-member",
+   "person_number": "349240260001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-13",
+    "preferred_name": "Jabir Yunus Saleh"
+   }
+  },
+  {
+   "etag": "0be4e183ed6b88af3eeb6200f2b9010966b3aeb1",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 61",
+   "officer_role": "llp-member",
+   "person_number": "349277820001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-08",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-30",
+    "preferred_name": "David John Chapman"
+   }
+  },
+  {
+   "etag": "998ad12bb206f4d8de4193f94577789281748cee",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 62",
+   "officer_role": "llp-member",
+   "person_number": "349246620001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-08",
+    "preferred_name": "Matthew Saunders"
+   }
+  },
+  {
+   "etag": "daea7362ce5ab37f54b46e56da0fb20fde1ea033",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 63",
+   "officer_role": "llp-member",
+   "person_number": "349240190001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-20",
+    "preferred_name": "Claire Louise Robb"
+   }
+  },
+  {
+   "etag": "d34ad59647b39b42e03ee67c508fefb868b35f55",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 64",
+   "officer_role": "llp-member",
+   "person_number": "349240200001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-08",
+    "preferred_name": "Philip John Robinson"
+   }
+  },
+  {
+   "etag": "5f17487280e5afb3bde13da3d5d5e2ab0e941e07",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 65",
+   "officer_role": "llp-member",
+   "person_number": "349227470001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-20",
+    "preferred_name": "Toby Jacklin"
+   }
+  },
+  {
+   "etag": "b8667f622744a364cc0e645e6c42f75222ddf168",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 66",
+   "officer_role": "llp-member",
+   "person_number": "349214620001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-05-15",
+    "preferred_name": "Paul James Fraser"
+   }
+  },
+  {
+   "etag": "af4dddf19e3744d42f75b664c7cb4b4eeb6c1106",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 67",
+   "officer_role": "llp-member",
+   "person_number": "267355440001",
+   "identity_verification_details": {
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-04"
+   }
+  },
+  {
+   "etag": "14395008cbab1d9795a974a46de1f171700a59c9",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 68",
+   "officer_role": "llp-member",
+   "person_number": "349240180001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-08",
+    "preferred_name": "Thomas Holmes Picton-Turbervill"
+   }
+  },
+  {
+   "etag": "e2496ca109988c555f3f6f5bf2c24761a6e88d98",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 69",
+   "officer_role": "llp-member",
+   "person_number": "349211490001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-15",
+    "preferred_name": "Jessica Frances Faruque"
+   }
+  },
+  {
+   "etag": "a2b57198b9b476c2126ca0fd3a60c220679beffc",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 70",
+   "officer_role": "llp-member",
+   "person_number": "349213610001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-14",
+    "preferred_name": "Jayme Andreas Frank"
+   }
+  },
+  {
+   "etag": "ab6922e49972c8fca0474531be24a61a4d301421",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 71",
+   "officer_role": "llp-member",
+   "person_number": "349201440001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-04",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-16",
+    "preferred_name": "Sarah Charlotte Carlton"
+   }
+  },
+  {
+   "etag": "76e6f408a3283d85d0625ee6d40e5577c1cd1263",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 72",
+   "officer_role": "llp-member",
+   "person_number": "349256400001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-07",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-05-15",
+    "preferred_name": "Eoin O Murchu"
+   }
+  },
+  {
+   "etag": "a3d5448b17988ad34445e0312656392063eee3b0",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 73",
+   "officer_role": "llp-member",
+   "person_number": "349275880001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-08",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-24",
+    "preferred_name": "Justin Douglas Siglow"
+   }
+  },
+  {
+   "etag": "1a335d598dd893a13de99eac9c1700c480cac02d",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 74",
+   "officer_role": "llp-member",
+   "person_number": "317064970001",
+   "identity_verification_details": {
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-04"
+   }
+  },
+  {
+   "etag": "61c9ad5dffda9a8a2e49891dcb664408c6148667",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 75",
+   "officer_role": "llp-member",
+   "person_number": "349246550001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-20",
+    "preferred_name": "Saverio Mitrani"
+   }
+  },
+  {
+   "etag": "55699f0f751c78695caf477333d5fb09798cd825",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "Switzerland",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 76",
+   "officer_role": "llp-member",
+   "person_number": "349214370001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-03-31",
+    "preferred_name": "Georgy Galumov"
+   }
+  },
+  {
+   "etag": "134c7dea155eccda4893b4f4356e7e4800dafa5b",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 77",
+   "officer_role": "llp-member",
+   "person_number": "349246590001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-20",
+    "preferred_name": "Sofiah Moolla"
+   }
+  },
+  {
+   "etag": "6f0f6ee9b74aae96e474a6e7955f5080da3bfa2f",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 78",
+   "officer_role": "llp-member",
+   "person_number": "330955170001",
+   "identity_verification_details": {
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05"
+   }
+  },
+  {
+   "etag": "08b1aa56603494946fe6a6680eefcbf3999e8d78",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 79",
+   "officer_role": "llp-member",
+   "person_number": "349214630001",
+   "identity_verification_details": {
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05"
+   }
+  },
+  {
+   "etag": "88e9833b6507105c6fd18989cde86d8654bdd63c",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 80",
+   "officer_role": "llp-member",
+   "person_number": "349166670001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-04",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-24",
+    "preferred_name": "Daniel John Barnet-Lamb"
+   }
+  },
+  {
+   "etag": "734ba77a64f30f86bff469785a214266df902a78",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "Switzerland",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 81",
+   "officer_role": "llp-member",
+   "person_number": "349238500001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-03-24",
+    "preferred_name": "Roman Remo Mueller"
+   }
+  },
+  {
+   "etag": "c956cfd55e3c29a32772e5d9146948a124156883",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 82",
+   "officer_role": "llp-member",
+   "person_number": "349211520001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-05-13",
+    "preferred_name": "Lyndsey Jayne Fallon"
+   }
+  },
+  {
+   "etag": "cb2ceef2cd2326bd2a8b5b6174c00099ae07f5e7",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 83",
+   "officer_role": "llp-member",
+   "person_number": "349256320001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-07",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-09",
+    "preferred_name": "Dilip Menon"
+   }
+  },
+  {
+   "etag": "ccef73a9aec49178c845ebaf6e9b72c88355ca67",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 84",
+   "officer_role": "llp-member",
+   "person_number": "349201050001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-04",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-22",
+    "preferred_name": "Ryan Anthony James Carey"
+   }
+  },
+  {
+   "etag": "2aacab55bc5ad2e67c8689d9ed58c77761cd12ac",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 85",
+   "officer_role": "llp-member",
+   "person_number": "253477630003",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-05-12",
+    "preferred_name": "Ross Gordon Millar"
+   }
+  },
+  {
+   "etag": "9dfb00d2507751c2498afe42889151520b434a8b",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 86",
+   "officer_role": "llp-member",
+   "person_number": "349201040001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-04",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-17",
+    "preferred_name": "Julie Sandra Campbell"
+   }
+  },
+  {
+   "etag": "e2f470e3c5279fd84467849c606f1161709c59e5",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 87",
+   "officer_role": "llp-member",
+   "person_number": "349228620001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-10",
+    "preferred_name": "Lucy Angela Julian"
+   }
+  },
+  {
+   "etag": "27f4e8ee0aae83b498c1fd08c15302b352ad01b1",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 88",
+   "officer_role": "llp-member",
+   "person_number": "349229650001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-24",
+    "preferred_name": "Adam Luke Kirkpatrick"
+   }
+  },
+  {
+   "etag": "dcff5192bbda4d0bc82ffc0d5eb79287422f88f2",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 89",
+   "officer_role": "llp-member",
+   "person_number": "281559260001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-10",
+    "preferred_name": "Abuzarr Ali Kotadia"
+   }
+  },
+  {
+   "etag": "cac4897f89db08385a2a8250a6bf5dd43402a7db",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 90",
+   "officer_role": "llp-member",
+   "person_number": "349226130001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-15",
+    "preferred_name": "Stephen Andrew Gould"
+   }
+  },
+  {
+   "etag": "1ad55b5896093daa0910474d7686ab26c39a45c6",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 91",
+   "officer_role": "llp-member",
+   "person_number": "349211470001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-16",
+    "preferred_name": "Paul Omid Dunn"
+   }
+  },
+  {
+   "etag": "23027fba8f4950a7600d68f9bf3a8a7f6361213e",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 92",
+   "officer_role": "llp-member",
+   "person_number": "349275870001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-08",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-09",
+    "preferred_name": "Ishan Maini"
+   }
+  },
+  {
+   "etag": "8ad2e1c855aeeb60cb46765aca9d6e6703c7e2d1",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 93",
+   "officer_role": "llp-member",
+   "person_number": "349228590001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-10",
+    "preferred_name": "Douglas Robert Hunter King"
+   }
+  },
+  {
+   "etag": "c1c18044d6859197ba8317b0bb17ebcbcc78b5ab",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 94",
+   "officer_role": "llp-member",
+   "person_number": "349242760001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-02",
+    "preferred_name": "Christopher Stephen Ward"
+   }
+  },
+  {
+   "etag": "b4d6794b8b137c69a2ee6c5645644e187b8e3f60",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 95",
+   "officer_role": "llp-member",
+   "person_number": "349245760001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-05-26",
+    "preferred_name": "Andrew Ward"
+   }
+  },
+  {
+   "etag": "e8e780ce1e74a2e6dc441b9c5c3b096246411ed1",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 96",
+   "officer_role": "llp-member",
+   "person_number": "349245770001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-05-01",
+    "preferred_name": "Alexandre Tresgallo Pardo"
+   }
+  },
+  {
+   "etag": "d8bed0c54de9d081b6bce9490a46bf55faff619f",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 97",
+   "officer_role": "llp-member",
+   "person_number": "349246380002",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-10",
+    "preferred_name": "Barnaby Clifford Toy"
+   }
+  },
+  {
+   "etag": "fc667a62e98deec0895d6d9bc6561ab52e539cf3",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 98",
+   "officer_role": "llp-member",
+   "person_number": "349229590001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-10",
+    "preferred_name": "Timothy David Lightfoot"
+   }
+  },
+  {
+   "etag": "ec03b0cda4cb9de016c886ebfb5a00e5403ad387",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 99",
+   "officer_role": "llp-member",
+   "person_number": "349246370001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-20",
+    "preferred_name": "Christina Kritzinger"
+   }
+  },
+  {
+   "etag": "c80fa7c3c9cafb9c1eeecacc16589c4f33fadd6a",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2026-06-01",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/OC303675/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 100",
+   "officer_role": "llp-member",
+   "person_number": "349245380001",
+   "identity_verification_details": {
+    "anti_money_laundering_supervisory_bodies": [
+     "Institute of Chartered Accountants in England and Wales (ICAEW)"
+    ],
+    "appointment_verification_end_on": "9999-12-31",
+    "appointment_verification_start_on": "2026-06-05",
+    "authorised_corporate_service_provider_name": "DELOITTE LLP ACSP",
+    "identity_verified_on": "2026-04-13",
+    "preferred_name": "Esther Jane Harper"
+   }
+  }
+ ],
+ "items_per_page": 100,
+ "kind": "officer-list",
+ "links": {
+  "self": "/company/OC303675/officers"
+ },
+ "resigned_count": 1086,
+ "inactive_count": 0,
+ "start_index": 0,
+ "total_results": 1943
+}

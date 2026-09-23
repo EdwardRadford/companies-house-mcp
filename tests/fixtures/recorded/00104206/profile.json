@@ -1,0 +1,80 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "01"
+  },
+  "last_accounts": {
+   "made_up_to": "2008-02-02",
+   "period_end_on": "2008-02-02",
+   "period_start_on": "2007-02-04",
+   "type": "full"
+  },
+  "next_accounts": {
+   "due_on": "2009-08-31",
+   "overdue": true,
+   "period_end_on": "2009-01-31",
+   "period_start_on": "2008-02-03"
+  },
+  "next_due": "2009-08-31",
+  "next_made_up_to": "2009-01-31",
+  "overdue": true
+ },
+ "annual_return": {
+  "last_made_up_to": "2008-06-15"
+ },
+ "can_file": true,
+ "company_name": "104206 LIMITED",
+ "company_number": "00104206",
+ "company_status": "liquidation",
+ "confirmation_statement": {
+  "next_due": "2017-06-29",
+  "next_made_up_to": "2017-06-15",
+  "overdue": true
+ },
+ "date_of_creation": "1909-07-23",
+ "etag": "dfd3f551a748dfca9ebe0b4ff297443985415a2f",
+ "has_been_liquidated": true,
+ "has_charges": false,
+ "has_insolvency_history": true,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2006-06-15",
+ "links": {
+  "self": "/company/00104206",
+  "charges": "/company/00104206/charges",
+  "filing_history": "/company/00104206/filing-history",
+  "insolvency": "/company/00104206/insolvency",
+  "officers": "/company/00104206/officers"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "2009-05-06",
+   "effective_from": "2009-05-06",
+   "name": "WW REALISATION 1 PUBLIC LIMITED COMPANY"
+  },
+  {
+   "ceased_on": "2009-05-06",
+   "effective_from": "1987-02-01",
+   "name": "WOOLWORTHS PUBLIC LIMITED COMPANY"
+  },
+  {
+   "ceased_on": "1987-02-01",
+   "effective_from": "1909-07-23",
+   "name": "F.W. WOOLWORTH PUBLIC LIMITED COMPANY"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "00104206 - COMPANIES HOUSE DEFAULT ADDRESS",
+  "locality": "Cardiff",
+  "po_box": "4385",
+  "postal_code": "CF14 8LH"
+ },
+ "registered_office_is_in_dispute": true,
+ "sic_codes": [
+  "5212",
+  "9500"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

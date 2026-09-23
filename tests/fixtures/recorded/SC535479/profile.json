@@ -1,0 +1,47 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "05"
+  },
+  "last_accounts": {
+   "type": "null"
+  }
+ },
+ "can_file": false,
+ "company_name": "JR GIRDERS LTD",
+ "company_number": "SC535479",
+ "company_status": "dissolved",
+ "date_of_cessation": "2018-07-03",
+ "date_of_creation": "2016-05-16",
+ "etag": "bcbda9c1c29fcaaecb86191c70aafece819f9c26",
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "scotland",
+ "links": {
+  "persons_with_significant_control": "/company/SC535479/persons-with-significant-control",
+  "self": "/company/SC535479",
+  "filing_history": "/company/SC535479/filing-history",
+  "officers": "/company/SC535479/officers"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "2016-06-26",
+   "effective_from": "2016-05-16",
+   "name": "IRN BRU GIRDERS LTD"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "Pitconnochie House",
+  "address_line_2": "Crossford",
+  "country": "Scotland",
+  "locality": "Dunfermline",
+  "postal_code": "KY12 8RH"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "25990"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false
+}

@@ -91,12 +91,18 @@ class CompaniesHouseClient:
         return await self._company_list(company_number, "officers", params)
 
     async def filing_history(
-        self, company_number: str, items_per_page: int, start_index: int, category: str | None = None
+        self,
+        company_number: str,
+        items_per_page: int,
+        start_index: int,
+        category: str | None = None,
+        *,
+        known_to_exist: bool = False,
     ) -> JSON:
         params: dict[str, Any] = {"items_per_page": items_per_page, "start_index": start_index}
         if category:
             params["category"] = category
-        return await self._company_list(company_number, "filing-history", params)
+        return await self._company_list(company_number, "filing-history", params, known_to_exist=known_to_exist)
 
     async def charges(self, company_number: str, items_per_page: int, start_index: int) -> JSON:
         params = {"items_per_page": items_per_page, "start_index": start_index}
@@ -116,21 +122,26 @@ class CompaniesHouseClient:
 
     # -- plumbing ----------------------------------------------------------
 
-    async def _company_list(self, company_number: str, resource: str, params: dict[str, Any]) -> JSON:
-        """GET a list under a company.
+    async def _company_list(
+        self, company_number: str, resource: str, params: dict[str, Any], *, known_to_exist: bool = False
+    ) -> JSON:
+        """GET a list under a company, and never let "no such company" pass as "none".
 
-        Companies House can answer 404 both for "no such company" and for
-        "this company has none of these" (a list resource that was never
-        created, such as charges for a company that never registered one). Those mean very different things to a
-        model, so on a 404 we ask for the profile: if the company exists the
-        list is genuinely empty, otherwise the profile call raises
-        CompanyNotFound.
+        The live API answers a list request for a company that does not exist
+        with 200 and an empty list (checked 23 Sep 2026: /company/00000001/charges,
+        /officers, /filing-history and /persons-with-significant-control all do).
+        A model would read that as "this company has no charges". So an empty
+        first page is confirmed against the profile, which does 404 for a
+        missing company. A 404 on the list itself gets the same check. The
+        extra request is only spent when the answer is empty.
         """
         try:
-            return await self._get(f"/company/{company_number}/{resource}", params)
+            body = await self._get(f"/company/{company_number}/{resource}", params)
         except _Missing:
+            body = {"items": [], "total_results": 0, "total_count": 0, "start_index": params.get("start_index", 0)}
+        if not known_to_exist and not body.get("items") and not params.get("start_index"):
             await self.company_profile(company_number)
-            return {"items": [], "total_results": 0, "total_count": 0, "start_index": params.get("start_index", 0)}
+        return body
 
     async def _get(self, path: str, params: dict[str, Any] | None = None) -> JSON:
         if not self._configured:
@@ -147,9 +158,9 @@ class CompaniesHouseClient:
             except httpx.TransportError as exc:
                 failure = UpstreamUnavailable(f"connection failed: {type(exc).__name__}")
             else:
-                self._limiter.observe(
-                    response.headers.get("X-Ratelimit-Remaining"), response.headers.get("X-Ratelimit-Reset")
-                )
+                # The live API sends X-Ratelimit-Remain; accept the longer spelling too.
+                remaining = response.headers.get("X-Ratelimit-Remain") or response.headers.get("X-Ratelimit-Remaining")
+                self._limiter.observe(remaining, response.headers.get("X-Ratelimit-Reset"))
                 if response.status_code not in _RETRYABLE_STATUS:
                     return self._handle(response)
                 failure = UpstreamUnavailable(f"HTTP {response.status_code}")

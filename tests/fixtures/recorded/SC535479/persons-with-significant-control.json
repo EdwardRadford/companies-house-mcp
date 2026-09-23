@@ -1,0 +1,41 @@
+{
+ "items_per_page": 100,
+ "items": [
+  {
+   "etag": "e6c0f844ba11bfa745a3e9e29e153a7b922cf7f6",
+   "notified_on": "2016-05-30",
+   "country_of_residence": "Scotland",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "name": "PERSON, Redacted 1",
+   "name_elements": {
+    "forename": "Redacted",
+    "surname": "Person 1"
+   },
+   "links": {
+    "self": "/company/SC535479/persons-with-significant-control/individual/redacted"
+   },
+   "nationality": "Scottish",
+   "ceased": false,
+   "kind": "individual-person-with-significant-control",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "natures_of_control": [
+    "ownership-of-shares-75-to-100-percent"
+   ]
+  }
+ ],
+ "start_index": 0,
+ "total_results": 1,
+ "active_count": 1,
+ "ceased_count": 0,
+ "links": {
+  "self": "/company/SC535479/persons-with-significant-control"
+ }
+}

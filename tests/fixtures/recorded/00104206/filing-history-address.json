@@ -1,0 +1,93 @@
+{
+ "filing_history_status": "filing-history-available",
+ "items": [
+  {
+   "transaction_id": "MzQ0Mjc3MTM4NGFkaXF6a2N4",
+   "barcode": "RDFR2RE2",
+   "type": "RP05",
+   "date": "2024-11-12",
+   "category": "address",
+   "description": "default-companies-house-registered-office-address-applied",
+   "description_values": {
+    "change_date": "2024-11-12",
+    "default_address": "PO Box 4385, 00104206 - Companies House Default Address, Cardiff, CF14 8LH"
+   },
+   "pages": 1,
+   "action_date": "2024-11-12",
+   "paper_filed": true,
+   "links": {
+    "self": "/company/00104206/filing-history/MzQ0Mjc3MTM4NGFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/vbOPcMDPTY9X9bUhh7TyLIRqeqfO8w8YHPpKAlkpHio"
+   }
+  },
+  {
+   "transaction_id": "MjAyNzg5MzQ1NmFkaXF6a2N4",
+   "barcode": "AN2XH7YI",
+   "type": "287",
+   "date": "2009-03-11",
+   "category": "address",
+   "description": "legacy",
+   "description_values": {
+    "description": "Registered office changed on 11/03/2009 from, athene place 66 shoe lane, london, EC4A 3BQ"
+   },
+   "pages": 1,
+   "paper_filed": true,
+   "links": {
+    "self": "/company/00104206/filing-history/MjAyNzg5MzQ1NmFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/bcAwXPlWolfdYHYJjnRU6oMnsblzrZC0XKunhf5e4P4"
+   }
+  },
+  {
+   "transaction_id": "MjAxOTY2NDA2MGFkaXF6a2N4",
+   "barcode": "A6O7A5C2",
+   "type": "287",
+   "date": "2008-12-09",
+   "category": "address",
+   "description": "legacy",
+   "description_values": {
+    "description": "Registered office changed on 09/12/2008 from, 242 marylebone road, london, NW1 6JL"
+   },
+   "pages": 1,
+   "paper_filed": true,
+   "links": {
+    "self": "/company/00104206/filing-history/MjAxOTY2NDA2MGFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/TNtVIJ8OzsLYFIeE0OSVFkjWcrl-tCAfWP_LKZt3obo"
+   }
+  },
+  {
+   "transaction_id": "MTg4OTk1Nzg5YWRpcXprY3g",
+   "type": "287",
+   "date": "2007-12-01",
+   "category": "address",
+   "description": "legacy",
+   "description_values": {
+    "description": "Registered office changed on 01/12/07 from: woolworth house, 242/246 marylebone road, london, NW1 6JL"
+   },
+   "pages": 1,
+   "paper_filed": true,
+   "links": {
+    "self": "/company/00104206/filing-history/MTg4OTk1Nzg5YWRpcXprY3g",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/4Edx-0Wk8qj4nzcGCBhHStDeBZURnOdXowUEFHa-y68"
+   }
+  },
+  {
+   "transaction_id": "MzAxNjI5ODk1MGFkaXF6a2N4",
+   "type": "287",
+   "date": "1909-08-09",
+   "category": "address",
+   "description": "legacy",
+   "description_values": {
+    "description": "Registered office changed"
+   },
+   "pages": 6,
+   "paper_filed": true,
+   "links": {
+    "self": "/company/00104206/filing-history/MzAxNjI5ODk1MGFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/7balKRisEmZHCWe2R-kDpFVpF96N0CFOJCIh2XHHTVM"
+   }
+  }
+ ],
+ "items_per_page": 100,
+ "start_index": 0,
+ "total_count": 5
+}

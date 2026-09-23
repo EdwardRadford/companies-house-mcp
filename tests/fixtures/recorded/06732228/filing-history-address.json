@@ -1,0 +1,25 @@
+{
+ "filing_history_status": "filing-history-available",
+ "items": [
+  {
+   "transaction_id": "MjAzNDUwMjUxM2FkaXF6a2N4",
+   "barcode": "ADLL1AEI",
+   "type": "287",
+   "date": "2009-06-06",
+   "category": "address",
+   "description": "legacy",
+   "description_values": {
+    "description": "Registered office changed on 06/06/2009 from one south place london EC2M 2WG"
+   },
+   "pages": 1,
+   "paper_filed": true,
+   "links": {
+    "self": "/company/06732228/filing-history/MjAzNDUwMjUxM2FkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/e0A1aOjwzJYfeNsq9ZBXitFo_19DFJ5py68Jhe81ikk"
+   }
+  }
+ ],
+ "items_per_page": 100,
+ "start_index": 0,
+ "total_count": 1
+}

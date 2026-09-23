@@ -1,0 +1,11 @@
+{
+ "etag": "dfd3f551a748dfca9ebe0b4ff297443985415a2f",
+ "kind": "registered-office-address",
+ "links": {
+  "self": "/company/00104206/registered-office-address"
+ },
+ "address_line_1": "00104206 - COMPANIES HOUSE DEFAULT ADDRESS",
+ "locality": "Cardiff",
+ "postal_code": "CF14 8LH",
+ "po_box": "4385"
+}

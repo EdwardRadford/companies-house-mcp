@@ -1,0 +1,63 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "31",
+   "month": "05"
+  },
+  "last_accounts": {
+   "made_up_to": "2025-05-31",
+   "period_end_on": "2025-05-31",
+   "period_start_on": "2024-06-01",
+   "type": "group"
+  },
+  "next_accounts": {
+   "due_on": "2027-02-28",
+   "overdue": false,
+   "period_end_on": "2026-05-31",
+   "period_start_on": "2025-06-01"
+  },
+  "next_due": "2027-02-28",
+  "next_made_up_to": "2026-05-31",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "DELOITTE LLP",
+ "company_number": "OC303675",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2026-07-31",
+  "next_due": "2027-08-14",
+  "next_made_up_to": "2027-07-31",
+  "overdue": false
+ },
+ "date_of_creation": "2003-01-10",
+ "etag": "674886b2f19e1755560e932dd2691c9ab6d3c07f",
+ "has_been_liquidated": false,
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "links": {
+  "persons_with_significant_control": "/company/OC303675/persons-with-significant-control",
+  "persons_with_significant_control_statements": "/company/OC303675/persons-with-significant-control-statements",
+  "self": "/company/OC303675",
+  "filing_history": "/company/OC303675/filing-history",
+  "officers": "/company/OC303675/officers"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "2008-12-01",
+   "effective_from": "2003-01-10",
+   "name": "DELOITTE & TOUCHE LLP"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "1 New Street Square",
+  "country": "United Kingdom",
+  "locality": "London",
+  "postal_code": "EC4A 3HQ"
+ },
+ "registered_office_is_in_dispute": false,
+ "type": "llp",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

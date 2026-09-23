@@ -19,6 +19,30 @@ def test_filing_template_with_missing_value_does_not_leave_braces() -> None:
     assert text.startswith("Confirmation statement made on")
 
 
+def test_default_address_is_a_warning() -> None:
+    raw = {
+        "company_number": "01234567",
+        "company_status": "active",
+        "registered_office_address": {
+            "po_box": "4385",
+            "address_line_1": "01234567 - Companies House Default Address",
+            "locality": "Cardiff",
+            "postal_code": "CF14 8LH",
+        },
+    }
+    assert any("default address" in w for w in shaping.company_profile(raw).warnings)
+
+
+def test_tidy_address() -> None:
+    from companies_house_mcp.enumerations import tidy_address
+
+    assert (
+        tidy_address(", Tesco House, Delamare Road,, Cheshunt,, Herts") == "Tesco House, Delamare Road, Cheshunt, Herts"
+    )
+    assert tidy_address(" , ") is None
+    assert tidy_address(None) is None
+
+
 def test_address_formatting() -> None:
     assert shaping.one_line_address({"po_box": "12", "locality": "Leeds", "postal_code": "LS1 1AA"}) == (
         "PO Box 12, Leeds, LS1 1AA"

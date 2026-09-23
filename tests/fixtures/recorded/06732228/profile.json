@@ -1,0 +1,66 @@
+{
+ "accounts": {
+  "accounting_reference_date": {
+   "day": "30",
+   "month": "06"
+  },
+  "last_accounts": {
+   "made_up_to": "2025-06-28",
+   "period_end_on": "2025-06-28",
+   "period_start_on": "2024-06-30",
+   "type": "dormant"
+  },
+  "next_accounts": {
+   "due_on": "2027-03-31",
+   "overdue": false,
+   "period_end_on": "2026-06-30",
+   "period_start_on": "2025-06-29"
+  },
+  "next_due": "2027-03-31",
+  "next_made_up_to": "2026-06-30",
+  "overdue": false
+ },
+ "can_file": true,
+ "company_name": "WOOLWORTHS LIMITED",
+ "company_number": "06732228",
+ "company_status": "active",
+ "confirmation_statement": {
+  "last_made_up_to": "2025-10-24",
+  "next_due": "2026-11-07",
+  "next_made_up_to": "2026-10-24",
+  "overdue": false
+ },
+ "date_of_creation": "2008-10-24",
+ "etag": "f17c7e0233ef79a833cd28bf6361598baeb58970",
+ "has_been_liquidated": false,
+ "has_charges": false,
+ "has_insolvency_history": false,
+ "jurisdiction": "england-wales",
+ "last_full_members_list_date": "2015-10-24",
+ "links": {
+  "persons_with_significant_control": "/company/06732228/persons-with-significant-control",
+  "self": "/company/06732228",
+  "filing_history": "/company/06732228/filing-history",
+  "officers": "/company/06732228/officers"
+ },
+ "previous_company_names": [
+  {
+   "ceased_on": "2009-05-20",
+   "effective_from": "2008-10-24",
+   "name": "WG&M SHELF COMPANY 187 LIMITED"
+  }
+ ],
+ "registered_office_address": {
+  "address_line_1": "First Floor Skyways House Speke Road",
+  "address_line_2": "Speke",
+  "locality": "Liverpool",
+  "postal_code": "L70 1AB"
+ },
+ "registered_office_is_in_dispute": false,
+ "sic_codes": [
+  "74990"
+ ],
+ "type": "ltd",
+ "undeliverable_registered_office_address": false,
+ "has_super_secure_pscs": false
+}

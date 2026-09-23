@@ -1,0 +1,11 @@
+{
+ "etag": "f17c7e0233ef79a833cd28bf6361598baeb58970",
+ "kind": "registered-office-address",
+ "links": {
+  "self": "/company/06732228/registered-office-address"
+ },
+ "address_line_1": "First Floor Skyways House Speke Road",
+ "address_line_2": "Speke",
+ "locality": "Liverpool",
+ "postal_code": "L70 1AB"
+}

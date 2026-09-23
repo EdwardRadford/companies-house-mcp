@@ -1,0 +1,241 @@
+{
+ "etag": "944073477f3cf5f44ceb10ace22be929a5e0f4fc",
+ "items": [
+  {
+   "charge_number": 6,
+   "classification": {
+    "description": "Deed of charge over credit balances",
+    "type": "charge-description"
+   },
+   "created_on": "2008-11-25",
+   "delivered_on": "2008-12-13",
+   "etag": "db44cd9c46427a1c3a34958f7a38ef31dc8b16ec",
+   "links": {
+    "self": "/company/00104206/charges/Jwu7LC66fChJR05DN6VSuq2OBx8"
+   },
+   "particulars": {
+    "description": "The charge creates a fixed charge over all the deposit(s) referred to in the schedule to the form 395 (including all or any part of the money payable pursuant to such deposit(s) & the debts represented thereby) together with all interest from time to time accruing thereon. It also creates an assignment by the chargor for the purposes of & to give effect to the security over the right of the chargor to require repayment of such deposit(s) & interest thereon. Details of charged account. Sort code 206582. account number 03419339.",
+    "type": "short-particulars"
+   },
+   "persons_entitled": [
+    {
+     "name": "Barclays Bank PLC"
+    }
+   ],
+   "secured_details": {
+    "description": "All monies due or to become due from the company to the chargee on any account whatsoever",
+    "type": "amount-secured"
+   },
+   "status": "outstanding",
+   "transactions": [
+    {
+     "delivered_on": "2008-12-13",
+     "filing_type": "create-charge-pre-2006-companies-act",
+     "links": {
+      "filing": "/company/00104206/filing-history/MjAyMDI4MTE1OWFkaXF6a2N4"
+     }
+    }
+   ]
+  },
+  {
+   "charge_number": 5,
+   "classification": {
+    "description": "Deed of charge over credit balances",
+    "type": "charge-description"
+   },
+   "created_on": "2008-08-29",
+   "delivered_on": "2008-09-06",
+   "etag": "291d8ba853c87bdf35bb5cab9481cdd69b17ca4f",
+   "links": {
+    "self": "/company/00104206/charges/2Tl8HIHls_pCFTyhOosafbdmlJw"
+   },
+   "particulars": {
+    "description": "The charge creates a fixed charge over all the deposit(s) referred to in the schedule to the form 395 (including all or any part of the money payable pursuant to such deposit(s) & the debts represented thereby) together with all interest from time to time accruing thereon. It also creates an assignment by the chargor for the purposes of & to give effect to the security over the right of the chargor to require repayment of such deposit(s) & interest thereon barclays bank PLC re woolworths public limited company business premium account, account number 53901467.",
+    "type": "short-particulars"
+   },
+   "persons_entitled": [
+    {
+     "name": "Barclays Bank PLC"
+    }
+   ],
+   "secured_details": {
+    "description": "All monies due or to become due from the company to the chargee under the terms of the aforementioned instrument creating or evidencing the charge",
+    "type": "amount-secured"
+   },
+   "status": "outstanding",
+   "transactions": [
+    {
+     "delivered_on": "2008-09-06",
+     "filing_type": "create-charge-pre-2006-companies-act",
+     "links": {
+      "filing": "/company/00104206/filing-history/MjAxMjk1NjE1NWFkaXF6a2N4"
+     }
+    }
+   ]
+  },
+  {
+   "charge_number": 4,
+   "classification": {
+    "description": "A charge on accounts",
+    "type": "charge-description"
+   },
+   "created_on": "2008-01-30",
+   "delivered_on": "2008-02-11",
+   "etag": "829d16363cee0f7c0c982051d0a659296d02cdb6",
+   "links": {
+    "self": "/company/00104206/charges/vKUC-BVEW9kp-hupW8KzoL5YXiI"
+   },
+   "particulars": {
+    "description": "By way of a first fixed charge its right title and interest in and to the blocked accounts by way of first floating charge all its property assets and rights. See the mortgage charge document for full details.",
+    "type": "short-particulars"
+   },
+   "persons_entitled": [
+    {
+     "name": "Gmac Commercial Finance PLC"
+    }
+   ],
+   "secured_details": {
+    "description": "All monies due or to become due by a chargor to any senior creditors on any account whatsoever under the terms of the aforementioned instrument creating or evidencing the charge",
+    "type": "amount-secured"
+   },
+   "status": "outstanding",
+   "transactions": [
+    {
+     "delivered_on": "2008-02-11",
+     "filing_type": "create-charge-pre-2006-companies-act",
+     "links": {
+      "filing": "/company/00104206/filing-history/MDE5MjA5OTYzMGFkaXF6a2N4"
+     }
+    }
+   ]
+  },
+  {
+   "charge_number": 3,
+   "classification": {
+    "description": "Assignation in security",
+    "type": "charge-description"
+   },
+   "created_on": "2008-01-30",
+   "delivered_on": "2008-02-13",
+   "etag": "cdab83f711c79ae5f9ebf30034dce55185a53add",
+   "links": {
+    "self": "/company/00104206/charges/raz9vpuJfeblqGVw9_WXFGvlUIU"
+   },
+   "particulars": {
+    "description": "All right title interest and benefit in and to the blocked accounts with all deposits,any agreements,etc. See the mortgage charge document for full details.",
+    "type": "short-particulars"
+   },
+   "persons_entitled": [
+    {
+     "name": "Gmac Commercial Finance PLC"
+    }
+   ],
+   "secured_details": {
+    "description": "All monies due or to become due from the company to the chargee under the terms of the aforementioned instrument creating or evidencing the charge",
+    "type": "amount-secured"
+   },
+   "status": "outstanding",
+   "transactions": [
+    {
+     "delivered_on": "2008-02-13",
+     "filing_type": "create-charge-pre-2006-companies-act",
+     "links": {
+      "filing": "/company/00104206/filing-history/MDE5MjI0ODMzMWFkaXF6a2N4"
+     }
+    }
+   ]
+  },
+  {
+   "assets_ceased_released": "part-property-released",
+   "charge_number": 2,
+   "classification": {
+    "description": "Debenture",
+    "type": "charge-description"
+   },
+   "created_on": "2008-01-30",
+   "delivered_on": "2008-02-08",
+   "etag": "66855a09eab5ea1ee2271c17ff0f5b584d46700a",
+   "links": {
+    "self": "/company/00104206/charges/GG0hbrCfoQOs6IcfRpnBiQQSdok"
+   },
+   "particulars": {
+    "description": "Fixed and floating charges over the undertaking and all property and assets present and future including goodwill bookdebts uncalled capital buildings fixtures fixed plant and machinery. See the mortgage charge document for full details.",
+    "type": "short-particulars"
+   },
+   "persons_entitled": [
+    {
+     "name": "Gmac Commercial Finance PLC as Trustee for the Secured Creditors"
+    }
+   ],
+   "secured_details": {
+    "description": "Under the terms of the aforementioned instrument creating or evidencing the charge all sums due or to become due",
+    "type": "amount-secured"
+   },
+   "status": "outstanding",
+   "transactions": [
+    {
+     "delivered_on": "2008-02-08",
+     "filing_type": "create-charge-pre-2006-companies-act",
+     "links": {
+      "filing": "/company/00104206/filing-history/MDE5MjE5NzkyNGFkaXF6a2N4"
+     }
+    },
+    {
+     "delivered_on": "2009-02-03",
+     "filing_type": "charge-released-floating-charge-in-pre-2006-companies-act",
+     "links": {
+      "filing": "/company/00104206/filing-history/MjAyNTA4MDkxNGFkaXF6a2N4"
+     }
+    }
+   ]
+  },
+  {
+   "charge_number": 1,
+   "classification": {
+    "description": "Rent deposit deed",
+    "type": "charge-description"
+   },
+   "created_on": "2000-05-15",
+   "delivered_on": "2000-06-02",
+   "etag": "6bf51ffffc60efc2fa332bef75ff71fccabb77aa",
+   "links": {
+    "self": "/company/00104206/charges/3XSLNebKfrAUquj6fPBMcYw246o"
+   },
+   "particulars": {
+    "description": "£15,000.",
+    "type": "short-particulars"
+   },
+   "persons_entitled": [
+    {
+     "name": "Norcros Limited"
+    }
+   ],
+   "satisfied_on": "2008-03-22",
+   "secured_details": {
+    "description": "All monies due or to become due from the company to the chargee under the underlease of even date",
+    "type": "amount-secured"
+   },
+   "status": "fully-satisfied",
+   "transactions": [
+    {
+     "delivered_on": "2000-06-02",
+     "filing_type": "create-charge-pre-2006-companies-act",
+     "links": {
+      "filing": "/company/00104206/filing-history/MDA0NjY1NzczOWFkaXF6a2N4"
+     }
+    },
+    {
+     "delivered_on": "2008-03-22",
+     "filing_type": "charge-satisfaction-pre-2006-companies-act",
+     "links": {
+      "filing": "/company/00104206/filing-history/MjAwMjEzNDIyOGFkaXF6a2N4"
+     }
+    }
+   ]
+  }
+ ],
+ "part_satisfied_count": 0,
+ "satisfied_count": 1,
+ "total_count": 6,
+ "unfiltered_count": 6
+}

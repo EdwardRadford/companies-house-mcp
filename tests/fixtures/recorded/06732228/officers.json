@@ -1,0 +1,256 @@
+{
+ "active_count": 1,
+ "etag": "0513adff062245aac985b202c6c96274c1bd26ce",
+ "items": [
+  {
+   "etag": "0513adff062245aac985b202c6c96274c1bd26ce",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2025-11-12",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/06732228/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 1",
+   "nationality": "British",
+   "officer_role": "director",
+   "person_number": "317169080001",
+   "identity_verification_details": {
+    "appointment_verification_statement_due_on": "2026-11-07"
+   }
+  },
+  {
+   "etag": "98843ac311c04e5822441fc50dc27fffa5958157",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2016-02-29",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "England",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/06732228/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 2",
+   "nationality": "British",
+   "officer_role": "director",
+   "resigned_on": "2017-03-23",
+   "person_number": "205827940001"
+  },
+  {
+   "etag": "3851f65ef02c49bedc4514b07a9dedce5a50d22d",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2012-01-20",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/06732228/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 3",
+   "nationality": "British",
+   "officer_role": "director",
+   "resigned_on": "2025-11-12",
+   "person_number": "52355060003"
+  },
+  {
+   "etag": "0658481c90077ff74063f393473503f29dede1f0",
+   "address": {
+    "address_line_1": "Skyways House Speke Road",
+    "address_line_2": "Speke",
+    "country": "United Kingdom",
+    "locality": "Liverpool",
+    "postal_code": "L70 1AB",
+    "premises": "First Floor,"
+   },
+   "appointed_on": "2009-05-20",
+   "is_pre_1992_appointment": false,
+   "links": {
+    "self": "/company/06732228/appointments/QSjzUheBoFZalUGaO6l2xrUEFzE",
+    "officer": {
+     "appointments": "/officers/YNjcElqZSE6HqQLdWdkhXNnaErY/appointments"
+    }
+   },
+   "name": "SHOP DIRECT SECRETARIAL SERVICES LIMITED",
+   "officer_role": "corporate-secretary",
+   "resigned_on": "2016-02-29",
+   "identification": {
+    "identification_type": "eea",
+    "place_registered": "SPEKE L70 1AB",
+    "registration_number": "3191443"
+   },
+   "person_number": "130460090001"
+  },
+  {
+   "etag": "0658481c90077ff74063f393473503f29dede1f0",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2009-05-20",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/06732228/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 5",
+   "nationality": "British",
+   "officer_role": "director",
+   "resigned_on": "2012-01-20",
+   "person_number": "133477340001"
+  },
+  {
+   "etag": "0658481c90077ff74063f393473503f29dede1f0",
+   "address": {
+    "address_line_1": "Skyways House Speke Road",
+    "address_line_2": "Speke",
+    "locality": "Liverpool",
+    "postal_code": "L70 1AB",
+    "premises": "First Floor"
+   },
+   "appointed_on": "2009-05-20",
+   "is_pre_1992_appointment": false,
+   "links": {
+    "self": "/company/06732228/appointments/ezUg9yJDEnppRezvVAahV5fJ6jY",
+    "officer": {
+     "appointments": "/officers/Jwk4_GBLSc6LAQs62ShXZa-bHCY/appointments"
+    }
+   },
+   "name": "SHOP DIRECT COMPANY DIRECTOR LIMITED",
+   "officer_role": "corporate-director",
+   "resigned_on": "2016-02-29",
+   "identification": {
+    "identification_type": "eea",
+    "place_registered": "SPEKE L70 1AB",
+    "registration_number": "4590337"
+   },
+   "person_number": "137259490001"
+  },
+  {
+   "etag": "0658481c90077ff74063f393473503f29dede1f0",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2009-01-28",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "United Kingdom",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/06732228/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 7",
+   "nationality": "British",
+   "officer_role": "director",
+   "resigned_on": "2009-05-20",
+   "person_number": "34423730004"
+  },
+  {
+   "etag": "0658481c90077ff74063f393473503f29dede1f0",
+   "address": {
+    "address_line_1": "South Place",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "EC2M 2WG",
+    "premises": "One"
+   },
+   "appointed_on": "2008-10-24",
+   "is_pre_1992_appointment": false,
+   "links": {
+    "self": "/company/06732228/appointments/IKWu6Hb7PI_6-oPQ3RFYj7iErrg",
+    "officer": {
+     "appointments": "/officers/OaOQqM7c_ns1a7rtF3iVSotME2I/appointments"
+    }
+   },
+   "name": "WG&M SECRETARIES LIMITED",
+   "officer_role": "corporate-secretary",
+   "resigned_on": "2009-01-28",
+   "person_number": "134160160001"
+  },
+  {
+   "etag": "0658481c90077ff74063f393473503f29dede1f0",
+   "address": {
+    "address_line_1": "Redacted",
+    "locality": "Redacted",
+    "postal_code": "XX1 1XX",
+    "country": "England"
+   },
+   "appointed_on": "2008-10-24",
+   "is_pre_1992_appointment": false,
+   "country_of_residence": "England",
+   "date_of_birth": {
+    "month": 1,
+    "year": 1970
+   },
+   "links": {
+    "self": "/company/06732228/appointments/redacted",
+    "officer": {
+     "appointments": "/officers/redacted/appointments"
+    }
+   },
+   "name": "PERSON, Redacted 9",
+   "nationality": "British",
+   "officer_role": "director",
+   "resigned_on": "2009-01-28",
+   "person_number": "133805490001"
+  }
+ ],
+ "items_per_page": 100,
+ "kind": "officer-list",
+ "links": {
+  "self": "/company/06732228/officers"
+ },
+ "resigned_count": 8,
+ "inactive_count": 0,
+ "start_index": 0,
+ "total_results": 9
+}

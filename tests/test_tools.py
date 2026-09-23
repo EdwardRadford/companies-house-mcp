@@ -177,14 +177,28 @@ async def test_company_without_charges_gets_empty_list(session: Client) -> None:
     assert (out["total"], out["charges"]) == (0, [])
 
 
+async def test_lists_for_a_company_that_does_not_exist_say_so(session: Client) -> None:
+    for tool in ("list_charges", "list_officers", "list_filings", "list_persons_with_significant_control"):
+        message = await call_error(session, tool, company_number="01234567")
+        assert "No company with number 01234567" in message, tool
+
+
 # -- registered office -------------------------------------------------------
 
 
 async def test_registered_office_history(session: Client) -> None:
     out = await call(session, "get_registered_office_history", company_number="09446231")
     assert out["current_address"].startswith("Unit 4 Kiln Farm")
-    assert [c["changed_on"] for c in out["changes"]] == ["2021-05-10", "2017-08-01"]
-    assert out["changes"][1]["old_address"] == "Flat 2 Oldbrook Crescent Milton Keynes MK6 2NH"
+    changes = out["changes"]
+    assert [c["form"] for c in changes] == ["RP05", "AD01", "AD01", "287"], "inspection-location filings are not moves"
+    default, recent, older, paper = changes
+    assert default["to_companies_house_default"] is True
+    assert default["new_address"].startswith("PO Box 4385")
+    assert recent["old_address"] == "12 Silbury Boulevard, Milton Keynes, MK9 2AF", "stray upstream commas tidied"
+    assert recent["changed_on"] == "2021-05-10"
+    assert older["old_address"] == "Flat 2 Oldbrook Crescent Milton Keynes MK6 2NH"
+    assert paper["old_address"] is None
+    assert "4 old yard" in paper["description"]
     assert out["complete"] is True
 
 

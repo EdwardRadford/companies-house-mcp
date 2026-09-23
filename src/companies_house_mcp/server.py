@@ -221,7 +221,7 @@ def build_server(client: CompaniesHouseClient) -> MCPServer:
         with _as_tool_errors():
             number = normalise_company_number(company_number)
             current = await client.registered_office_address(number)
-            filings = await client.filing_history(number, 100, 0, "address")
+            filings = await client.filing_history(number, 100, 0, "address", known_to_exist=True)
             return shaping.registered_office_history(number, current, filings)
 
     @mcp.tool(annotations=_read_only("People with significant control"))

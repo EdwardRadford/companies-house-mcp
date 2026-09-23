@@ -1,0 +1,44 @@
+{
+ "filing_history_status": "filing-history-available",
+ "items": [
+  {
+   "transaction_id": "MzIwODE0NDk1NGFkaXF6a2N4",
+   "barcode": "X78VEHGQ",
+   "type": "LLAD01",
+   "date": "2018-06-25",
+   "category": "address",
+   "description": "change-registered-office-address-limited-liability-partnership-with-date-old-address-new-address",
+   "description_values": {
+    "change_date": "2018-06-25",
+    "old_address": ", 2 New Street Square, London, EC4A 3BZ",
+    "new_address": "1 New Street Square London EC4A 3HQ"
+   },
+   "pages": 1,
+   "action_date": "2018-06-25",
+   "links": {
+    "self": "/company/OC303675/filing-history/MzIwODE0NDk1NGFkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/omqav9TWHb5UZQ8C5jB3R0r1wkiYqzf8CVxxcJVETPo"
+   }
+  },
+  {
+   "transaction_id": "MjAxODc3ODY5M2FkaXF6a2N4",
+   "barcode": "AAUM455E",
+   "type": "LLP287",
+   "date": "2008-11-26",
+   "category": "address",
+   "description": "legacy",
+   "description_values": {
+    "description": "Registered office changed on 26/11/2008 from, stonecutter court, 1 stonecutter street, london, EC4A 4TR"
+   },
+   "pages": 1,
+   "paper_filed": true,
+   "links": {
+    "self": "/company/OC303675/filing-history/MjAxODc3ODY5M2FkaXF6a2N4",
+    "document_metadata": "https://document-api.company-information.service.gov.uk/document/-1vK3-rL1otewXs4QzbZY5r_3EH0h8O6hvPVpeSdeDk"
+   }
+  }
+ ],
+ "items_per_page": 100,
+ "start_index": 0,
+ "total_count": 2
+}

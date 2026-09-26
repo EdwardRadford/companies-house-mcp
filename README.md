@@ -1,5 +1,7 @@
 # companies-house-mcp
 
+[![CI](https://github.com/EdwardRadford/companies-house-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/EdwardRadford/companies-house-mcp/actions/workflows/ci.yml)
+
 An MCP server that gives a model read-only access to the UK Companies House register:
 every company in England, Wales, Scotland and Northern Ireland, live or dissolved. With
 it, a model can answer questions like "is this supplier still trading?", "who actually
@@ -259,9 +261,15 @@ and every call explains that the key is missing.
 
 ```bash
 pip install -e ".[dev]"
-pytest            # no network, no key
-ruff check . && mypy
+pytest                    # 127 tests, no network, no key
+ruff check . && ruff format --check .
+mypy                      # --strict over src/, per pyproject.toml
 ```
+
+127 tests, all offline. GitHub Actions runs exactly those three commands on Python 3.11
+and 3.12 for every push and pull request; the badge above is that workflow. `mypy` is
+configured `strict` with `files = ["src"]`, so the strict guarantee covers the package,
+not the tests and scripts.
 
 The suite fakes Companies House at the HTTP layer (`httpx.MockTransport`), so the real
 client, limiter, retry and error mapping run in every test. Tool tests talk to the

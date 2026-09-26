@@ -8,3 +8,8 @@ __pycache__/
 dist/
 build/
 .env
+
+# Local working notes, not part of the published repo
+CLAUDE.md
+STATE.md
+.claude/
